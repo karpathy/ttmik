@@ -6,7 +6,7 @@ Here's the process, with Level 1 for example:
 
 - I went through the [course lessons](https://talktomeinkorean.com/curriculum/level-1-korean-grammar) manually and recorded the vocab/conversations that I found useful/interesting into `level1.txt`. This is done manually.
 - I used ChatGPT/GPT-4 to help create romanization where TTMIK does not provide it, thanks GPT-4!
-- I run `python compile.py` to create `level1_compiled.txt`. E.g. currently this creates 576 Anki cards by default.
+- I run `python compile.py` to create `level1_compiled.txt`. Mainly this makes sure to take each card and insert a duplicate of it that is reversed, so you get cards for both English -> Korean and vice versa. In total e.g. currently this creates 576 Anki cards.
 - I import `level1_compiled.txt` into [Anki](https://ankiweb.net/decks/)
 - I study cards to become 한국어 전문가
 
