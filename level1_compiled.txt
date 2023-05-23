@@ -1,0 +1,606 @@
+# https://talktomeinkorean.com/curriculum/level-1-korean-grammar/
+# TTMIK Level 1 Lesson 1
+존댓말 [jon-daen-mal];formal/polite Korean
+formal/polite Korean;존댓말 [jon-daen-mal]
+반말 [ban-mal];intimate/informal language
+intimate/informal language;반말 [ban-mal]
+안녕하세요 [an-nyeong-ha-se-yo];Hello / Hi
+Hello / Hi;안녕하세요 [an-nyeong-ha-se-yo]
+감사합니다 [gam-sa-ham-ni-da];Thank you
+Thank you;감사합니다 [gam-sa-ham-ni-da]
+여기요 [yeo-gi-yo];Here you go
+Here you go;여기요 [yeo-gi-yo]
+# TTMIK Level 1 Lesson 2
+네. [ne];Yes.
+Yes.;네. [ne]
+아니요. [a-ni-yo];No.
+No.;아니요. [a-ni-yo]
+네 [ne];Agreement / Got it / I see / "What did you say?"
+Agreement / Got it / I see / "What did you say?";네 [ne]
+커피 좋아해요? [keo-pi jo-a-hae-yo?];Do you like coffee?
+Do you like coffee?;커피 좋아해요? [keo-pi jo-a-hae-yo?]
+아니요. 커피 안 좋아해요. [a-ni-yo. keo-pi an jo-a-hae-yo];No, I don’t like coffee.
+No, I don’t like coffee.;아니요. 커피 안 좋아해요. [a-ni-yo. keo-pi an jo-a-hae-yo]
+네, 맞아요. [ne, ma-ja-yo];Yes, that is right.
+Yes, that is right.;네, 맞아요. [ne, ma-ja-yo]
+# TTMIK Level 1 Lesson 3
+안녕히 계세요. [an-nyeong-hi gye-se-yo.];Stay in peace.
+Stay in peace.;안녕히 계세요. [an-nyeong-hi gye-se-yo.]
+안녕히 가세요. [an-nyeong-hi ga-se-yo.];Go in peace.
+Go in peace.;안녕히 가세요. [an-nyeong-hi ga-se-yo.]
+# TTMIK Level 1 Lesson 4
+죄송합니다 [joe-song-ham-ni-da];I am sorry.
+I am sorry.;죄송합니다 [joe-song-ham-ni-da]
+저기요 [jeo-gi-yo];Excuse me.
+Excuse me.;저기요 [jeo-gi-yo]
+# 잠시만요. [jam-si-man-nyo] = Just a second.
+# 잠깐만요. [jam-kkan-man-nyo] = Just a second.
+# TTMIK Level 1 Lesson 5
+물이에요? [mu-ri-e-yo?];Is that water? / Is this water?
+Is that water? / Is this water?;물이에요? [mu-ri-e-yo?]
+가방이에요. [ga-bang-i-e-yo];It is a bag.
+It is a bag.;가방이에요. [ga-bang-i-e-yo]
+사무실이에요. [sa-mu-sil-i-e-yo];It is an office.
+It is an office.;사무실이에요. [sa-mu-sil-i-e-yo]
+학교예요. [hak-kkyo-ye-yo];It is a school.
+It is a school.;학교예요. [hak-kkyo-ye-yo]
+학생이에요. [hak-ssaeng-i-e-yo];I am a student.
+I am a student.;학생이에요. [hak-ssaeng-i-e-yo]
+저예요 [jeo-ye-yo];It is me. / It is I.
+It is me. / It is I.;저예요 [jeo-ye-yo]
+뭐 [mwo];what
+what;뭐 [mwo]
+뭐예요? [mwo-ye-yo?];What is it? / What is that?
+What is it? / What is that?;뭐예요? [mwo-ye-yo?]
+# TTMIK Level 1 Lesson 6
+이거 책이에요. [i-geo chae-gi-e-yo.];This is a book.
+This is a book.;이거 책이에요. [i-geo chae-gi-e-yo.]
+이거 핸드폰이에요. [i-geo haen-deu-po-ni-e-yo.];This is a cellphone.
+This is a cellphone.;이거 핸드폰이에요. [i-geo haen-deu-po-ni-e-yo.]
+이거 사전이에요. [i-geo sa-jeo-ni-e-yo.];This is a dictionary.
+This is a dictionary.;이거 사전이에요. [i-geo sa-jeo-ni-e-yo.]
+네. 맞아요. 이거 커피예요. [ne. ma-ja-yo. i-geo keo-pi-ye-yo.];Yes, that’s right. This is coffee.
+Yes, that’s right. This is coffee.;네. 맞아요. 이거 커피예요. [ne. ma-ja-yo. i-geo keo-pi-ye-yo.]
+# TTMIK Level 1 Lesson 7
+이 사람 [i sa-ram];this person, this man here, this lady here, he, she
+this person, this man here, this lady here, he, she;이 사람 [i sa-ram]
+그 사람 [geu sa-ram];the person, that person, he, she
+the person, that person, he, she;그 사람 [geu sa-ram]
+저 사람 [jeo sa-ram];that person over there, he, she
+that person over there, he, she;저 사람 [jeo sa-ram]
+# TTMIK Level 1 Lesson 8
+우유 아니에요. [u-yu a-ni-e-yo.];It is not milk.
+It is not milk.;우유 아니에요. [u-yu a-ni-e-yo.]
+물 아니에요. [mul a-ni-e-yo.];It is not water.
+It is not water.;물 아니에요. [mul a-ni-e-yo.]
+저 학생 아니에요. [jeo hak-ssaeng a-ni-e-yo.];I am not a student.
+I am not a student.;저 학생 아니에요. [jeo hak-ssaeng a-ni-e-yo.]
+그거 고양이 아니에요. [geu-geo go-yang-i a-ni-e-yo.];It is not a cat.
+It is not a cat.;그거 고양이 아니에요. [geu-geo go-yang-i a-ni-e-yo.]
+저거 술 아니에요. [jeo-geo sul a-ni-e-yo.];That is not liquor.
+That is not liquor.;저거 술 아니에요. [jeo-geo sul a-ni-e-yo.]
+# TTMIK Level 1 Lesson 9
+이 책 좋아요. [i chaek jo-a-yo.];This book is good.
+This book is good.;이 책 좋아요. [i chaek jo-a-yo.]
+이거 사과예요. [i-geo sa-gwa-ye-yo.];This is an apple.
+This is an apple.;이거 사과예요. [i-geo sa-gwa-ye-yo.]
+이거는 뭐예요? [i-geo-NEUN mwo-ye-yo?];And as for this one, what is it?
+And as for this one, what is it?;이거는 뭐예요? [i-geo-NEUN mwo-ye-yo?]
+오늘 날씨 좋네요. [o-neul nal-ssi jon-ne-yo.];The weather is good today.
+The weather is good today.;오늘 날씨 좋네요. [o-neul nal-ssi jon-ne-yo.]
+오늘은 날씨 좋네요. [o-neu-reun nal-ssi jon-ne-yo.];The weather (has not been so good lately, but) today (it) is good.
+The weather (has not been so good lately, but) today (it) is good.;오늘은 날씨 좋네요. [o-neu-reun nal-ssi jon-ne-yo.]
+뭐가 좋아요? [mwo-ga jo-a-yo?];WHAT is good?
+WHAT is good?;뭐가 좋아요? [mwo-ga jo-a-yo?]
+# TTMIK Level 1 Lesson 10
+시간 [si-gan];time
+time;시간 [si-gan]
+친구 있어요? [chin-gu i-sseo-yo?];Do you have friends? / Do they have friends?
+Do you have friends? / Do they have friends?;친구 있어요? [chin-gu i-sseo-yo?]
+친구 없어요. [chin-gu eop-sseo-yo.];I do not have friends.
+I do not have friends.;친구 없어요. [chin-gu eop-sseo-yo.]
+시간 없어요. [si-gan eop-sseo-yo.];There is no time. / I do not have time. / We do not have time.
+There is no time. / I do not have time. / We do not have time.;시간 없어요. [si-gan eop-sseo-yo.]
+TalkToMeInKorean 재미있어요! [jae-mi-i-sseo-yo!];TalkToMeInKorean is fun! / TalkToMeInKorean is interesting!
+TalkToMeInKorean is fun! / TalkToMeInKorean is interesting!;TalkToMeInKorean 재미있어요! [jae-mi-i-sseo-yo!]
+# TTMIK Level 1 Lesson 11
+사과 [sa-gwa];apple
+apple;사과 [sa-gwa]
+돈 [don];money
+money;돈 [don]
+사과 있어요 [sa-gwa i-sseo-yo.];I have an apple. / There are apples. / They have some apples.
+I have an apple. / There are apples. / They have some apples.;사과 있어요 [sa-gwa i-sseo-yo.]
+사과 없어요 [sa-gwa eop-sseo-yo.];I do not have an apple. / There is no apple.
+I do not have an apple. / There is no apple.;사과 없어요 [sa-gwa eop-sseo-yo.]
+시간 있어요? [si-gan i-sseo-yo?];Do you have some time?
+Do you have some time?;시간 있어요? [si-gan i-sseo-yo?]
+시간 없어요? [si-gan eop-sseo-yo?];You do not have time?
+You do not have time?;시간 없어요? [si-gan eop-sseo-yo?]
+돈 있어요? [don i-sseo-yo?];Do you have money?
+Do you have money?;돈 있어요? [don i-sseo-yo?]
+돈 없어요? [don eop-sseo-yo?];You do not have money?
+You do not have money?;돈 없어요? [don eop-sseo-yo?]
+맥주 주세요. [maek-jju ju-se-yo.];Please give me a beer.
+Please give me a beer.;맥주 주세요. [maek-jju ju-se-yo.]
+사과 주세요. [sa-gwa ju-se-yo.];Give me (an/some) apple(s).
+Give me (an/some) apple(s).;사과 주세요. [sa-gwa ju-se-yo.]
+네. 우유 있어요. [ne. u-yu i-sseo-yo.];Yes, we have milk.
+Yes, we have milk.;네. 우유 있어요. [ne. u-yu i-sseo-yo.]
+밥 주세요. [bap ju-se-yo.];Please give me rice. / Please give me food.
+Please give me rice. / Please give me food.;밥 주세요. [bap ju-se-yo.]
+# TTMIK Level 1 Lesson 12
+맛있어요. [ma-si-sseo-yo.];It is delicious.
+It is delicious.;맛있어요. [ma-si-sseo-yo.]
+맛없어요. [ma-deop-sseo-yo.];It is not tasty.
+It is not tasty.;맛없어요. [ma-deop-sseo-yo.]
+이거 맛있어요. [i-geo ma-si-sseo-yo.];This is delicious.
+This is delicious.;이거 맛있어요. [i-geo ma-si-sseo-yo.]
+저 케이크 맛있어요. [jeo ke-i-keu ma-si-sseo-yo.];That cake is delicious.
+That cake is delicious.;저 케이크 맛있어요. [jeo ke-i-keu ma-si-sseo-yo.]
+뭐가 맛있어요? [mwo-ga ma-si-sseo-yo?];What is delicious?
+What is delicious?;뭐가 맛있어요? [mwo-ga ma-si-sseo-yo?]
+치킨 맛있어요. [chi-kin ma-si-sseo-yo.];Chicken is delicious.
+Chicken is delicious.;치킨 맛있어요. [chi-kin ma-si-sseo-yo.]
+이거 맛없어요? [i-geo ma-deop-sseo-yo?];Does this taste awful?
+Does this taste awful?;이거 맛없어요? [i-geo ma-deop-sseo-yo?]
+이 차 맛없어요. [i cha ma-deop-sseo-yo];This tea tastes awful.
+This tea tastes awful.;이 차 맛없어요. [i cha ma-deop-sseo-yo]
+잘 먹겠습니다. [jal meok-kket-sseum-ni-da.];Thank you for the food. / I will enjoy it.
+Thank you for the food. / I will enjoy it.;잘 먹겠습니다. [jal meok-kket-sseum-ni-da.]
+잘 먹었습니다. [jal meo-geot-sseum-ni-da.];I enjoyed the meal. / Thanks for the food.
+I enjoyed the meal. / Thanks for the food.;잘 먹었습니다. [jal meo-geot-sseum-ni-da.]
+# TTMIK Level 1 Lesson 13
+가다 [ga-da];to go
+to go;가다 [ga-da]
+보다 [bo-da];to see
+to see;보다 [bo-da]
+먹다 [meok-tta];to eat
+to eat;먹다 [meok-tta]
+가고 싶어요. [ga-go si-peo-yo.];I want to go.
+I want to go.;가고 싶어요. [ga-go si-peo-yo.]
+보고 싶어요. [bo-go si-peo-yo.];I want to see/look/watch.
+I want to see/look/watch.;보고 싶어요. [bo-go si-peo-yo.]
+먹고 싶어요. [meok-kko si-peo-yo.];I want to eat.
+I want to eat.;먹고 싶어요. [meok-kko si-peo-yo.]
+뭐 먹고 싶어요? [mwo meok-kko si-peo-yo?];What do you want to eat?
+What do you want to eat?;뭐 먹고 싶어요? [mwo meok-kko si-peo-yo?]
+회 먹고 싶어요. [hoe meok-kko si-peo-yo.];I want to eat raw fish.
+I want to eat raw fish.;회 먹고 싶어요. [hoe meok-kko si-peo-yo.]
+주세요. [ju-se-yo.];Please give me.
+Please give me.;주세요. [ju-se-yo.]
+더 주세요. [deo ju-se-yo.];Please give me more.
+Please give me more.;더 주세요. [deo ju-se-yo.]
+더 먹고 싶어요. [deo meok-kko si-peo-yo.];I want to eat more.
+I want to eat more.;더 먹고 싶어요. [deo meok-kko si-peo-yo.]
+# TTMIK Level 1 Lesson 14
+하다 [ha-da];to do
+to do;하다 [ha-da]
+보다 [bo-da];to see
+to see;보다 [bo-da]
+먹다 [meok-tta];to eat
+to eat;먹다 [meok-tta]
+사다 [sa-da];to buy
+to buy;사다 [sa-da]
+마시다 [ma-si-da];to drink
+to drink;마시다 [ma-si-da]
+뭐 하고 싶어요? [mwo ha-go si-peo-yo?];What do you want to do?
+What do you want to do?;뭐 하고 싶어요? [mwo ha-go si-peo-yo?]
+텔레비전 보고 싶어요. [tel-le-bi-jeon bo-go si-peo-yo.];I want to watch TV.
+I want to watch TV.;텔레비전 보고 싶어요. [tel-le-bi-jeon bo-go si-peo-yo.]
+텔레비전 보고 싶어요? [tel-le-bi-jeon bo-go si-peo-yo?];You want to watch TV?
+You want to watch TV?;텔레비전 보고 싶어요? [tel-le-bi-jeon bo-go si-peo-yo?]
+뭐 보고 싶어요? [mwo bo-go si-peo-yo?];What do you want to watch?
+What do you want to watch?;뭐 보고 싶어요? [mwo bo-go si-peo-yo?]
+뉴스 보고 싶어요. [nyu-sseu bo-go si-peo-yo.];I want to watch the news.
+I want to watch the news.;뉴스 보고 싶어요. [nyu-sseu bo-go si-peo-yo.]
+이거 사고 싶어요. [i-geo sa-go si-peo-yo.];I want to buy this.
+I want to buy this.;이거 사고 싶어요. [i-geo sa-go si-peo-yo.]
+이거요? [i-geo-yo?];This one?
+This one?;이거요? [i-geo-yo?]
+네. 이거 먹고 싶어요. [ne. i-geo meok-kko si-peo-yo.];Yeah. I want to eat this.
+Yeah. I want to eat this.;네. 이거 먹고 싶어요. [ne. i-geo meok-kko si-peo-yo.]
+읽고 싶어요 [il-kko si-peo-yo];I want to read.
+I want to read.;읽고 싶어요 [il-kko si-peo-yo]
+자고 싶어요. [ja-go si-peo-yo.];I want to sleep.
+I want to sleep.;자고 싶어요. [ja-go si-peo-yo.]
+놀고 싶어요. [nol-go si-peo-yo.];I want to play.
+I want to play.;놀고 싶어요. [nol-go si-peo-yo.]
+쉬고 싶어요 [swi-go si-peo-yo.];I want to rest.
+I want to rest.;쉬고 싶어요 [swi-go si-peo-yo.]
+일하고 싶어요. [il-ha-go si-peo-yo.];I want to work.
+I want to work.;일하고 싶어요. [il-ha-go si-peo-yo.]
+영화 [yeong-hwa];movie
+movie;영화 [yeong-hwa]
+영화 보고 싶어요. [yeong-hwa bo-go si-peo-yo.];I want to watch a movie.
+I want to watch a movie.;영화 보고 싶어요. [yeong-hwa bo-go si-peo-yo.]
+김밥 먹고 싶어요. [gim-ppap meok-kko si-peo-yo.];I want to eat kiimbap.
+I want to eat kiimbap.;김밥 먹고 싶어요. [gim-ppap meok-kko si-peo-yo.]
+뭐 마시고 싶어요? [mwo ma-si-go si-peo-yo?];What would you like to drink?
+What would you like to drink?;뭐 마시고 싶어요? [mwo ma-si-go si-peo-yo?]
+# TTMIK Level 1 Lesson 15
+일 [il];1 (in Sino-Korean numbers)
+1 (in Sino-Korean numbers);일 [il]
+이 [i];2 (in Sino-Korean numbers)
+2 (in Sino-Korean numbers);이 [i]
+삼 [sam];3 (in Sino-Korean numbers)
+3 (in Sino-Korean numbers);삼 [sam]
+사 [sa];4 (in Sino-Korean numbers)
+4 (in Sino-Korean numbers);사 [sa]
+오 [o];5 (in Sino-Korean numbers)
+5 (in Sino-Korean numbers);오 [o]
+륙 [ryuk] or 육 [yuk];6 (in Sino-Korean numbers)
+6 (in Sino-Korean numbers);륙 [ryuk] or 육 [yuk]
+칠 [chil];7 (in Sino-Korean numbers)
+7 (in Sino-Korean numbers);칠 [chil]
+팔 [pal];8 (in Sino-Korean numbers)
+8 (in Sino-Korean numbers);팔 [pal]
+구 [gu];9 (in Sino-Korean numbers)
+9 (in Sino-Korean numbers);구 [gu]
+십 [sip];10 (in Sino-Korean numbers)
+10 (in Sino-Korean numbers);십 [sip]
+십일 [sip-il];11 (in Sino-Korean numbers)
+11 (in Sino-Korean numbers);십일 [sip-il]
+이십오 [i-sip-o];25 (in Sino-Korean numbers)
+25 (in Sino-Korean numbers);이십오 [i-sip-o]
+삼십삼 [sam-sip-sam];33 (in Sino-Korean numbers)
+33 (in Sino-Korean numbers);삼십삼 [sam-sip-sam]
+구십구 [gu-sip-gu];99 (in Sino-Korean numbers)
+99 (in Sino-Korean numbers);구십구 [gu-sip-gu]
+백 [baek];100 (in Sino-Korean numbers)
+100 (in Sino-Korean numbers);백 [baek]
+천 [cheon];1,000 (in Sino-Korean numbers)
+1,000 (in Sino-Korean numbers);천 [cheon]
+삼백십이 [sam-baek-si-bi];312 (in Sino-Korean numbers)
+312 (in Sino-Korean numbers);삼백십이 [sam-baek-si-bi]
+영 [yeong];0 (in Sino-Korean numbers)
+0 (in Sino-Korean numbers);영 [yeong]
+공 [gong];0 (in Sino-Korean numbers, used for phone numbers, dates, etc.)
+0 (in Sino-Korean numbers, used for phone numbers, dates, etc.);공 [gong]
+# TTMIK Level 1 Lesson 16
+가요 [ga-yo];I go. / You go. / He goes. / She goes. / They go.
+I go. / You go. / He goes. / She goes. / They go.;가요 [ga-yo]
+먹어요 [meo-geo-yo];I eat. / You eat. / He eats. / etc.
+I eat. / You eat. / He eats. / etc.;먹어요 [meo-geo-yo]
+봐요 [bwa-yo];I see. / I look. / I watch. / You look. / etc.
+I see. / I look. / I watch. / You look. / etc.;봐요 [bwa-yo]
+보여요 [bo-yeo-yo];I see it. / It is visible.
+I see it. / It is visible.;보여요 [bo-yeo-yo]
+# TTMIK Level 1 Lesson 17
+오다 [o-da];to come
+to come;오다 [o-da]
+적다 [jeok-tta];to write down
+to write down;적다 [jeok-tta]
+샀어요 [sa-sseo-yo];I bought / you bought / s/he bought / they bought / etc.
+I bought / you bought / s/he bought / they bought / etc.;샀어요 [sa-sseo-yo]
+왔어요 [wa-sseo-yo];I came / you came / s/he came / they came / we came / etc.
+I came / you came / s/he came / they came / we came / etc.;왔어요 [wa-sseo-yo]
+적었어요 [jeo-geo-sseo-yo];I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.
+I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.;적었어요 [jeo-geo-sseo-yo]
+했어요 [hae-sseo-yo];I did / you did / he did / they did / etc.
+I did / you did / he did / they did / etc.;했어요 [hae-sseo-yo]
+# TTMIK Level 1 Lesson 18
+어디 가고 싶어요? [eo-di ga-go si-peo-yo?];Where do you want to go?
+Where do you want to go?;어디 가고 싶어요? [eo-di ga-go si-peo-yo?]
+학교에 갔어요. [hak-kkyo-e ga-sseo-yo.];I went to school.
+I went to school.;학교에 갔어요. [hak-kkyo-e ga-sseo-yo.]
+한국에 왔어요. [han-gu-ge wa-sseo-yo.];I came to Korea.
+I came to Korea.;한국에 왔어요. [han-gu-ge wa-sseo-yo.]
+지금 어디에 있어요? [ji-geum eo-di-e i-sseo-yo?];Where are you now?
+Where are you now?;지금 어디에 있어요? [ji-geum eo-di-e i-sseo-yo?]
+사무실 [sa-mu-sil];work room, office
+work room, office;사무실 [sa-mu-sil]
+사무실에 [sa-mu-si-re];to the office, to an office, to my office
+to the office, to an office, to my office;사무실에 [sa-mu-si-re]
+사무실에서 [sa-mu-sil-e-seo];from the office, from an office, from my office
+from the office, from an office, from my office;사무실에서 [sa-mu-sil-e-seo]
+사무실에 있어요. [sa-mu-si-re i-sseo-yo.];I am at the office.
+I am at the office.;사무실에 있어요. [sa-mu-si-re i-sseo-yo.]
+집에 있어요. [ji-be i-sseo-yo.];I am at home.
+I am at home.;집에 있어요. [ji-be i-sseo-yo.]
+집에 가요. [ji-be ga-yo.];I am going home.
+I am going home.;집에 가요. [ji-be ga-yo.]
+집에서 일해요. [ji-be-seo il-hae-yo.];I work at home.
+I work at home.;집에서 일해요. [ji-be-seo il-hae-yo.]
+집에서 뭐 해요? [ji-be-seo mwo hae-yo?];What are you doing at home?
+What are you doing at home?;집에서 뭐 해요? [ji-be-seo mwo hae-yo?]
+사무실에서 일해요. [sa-mu-si-re-seo il-hae-yo.];I work at the office.
+I work at the office.;사무실에서 일해요. [sa-mu-si-re-seo il-hae-yo.]
+갔어요 [ga-sseo-yo];went / to have gone
+went / to have gone;갔어요 [ga-sseo-yo]
+왔어요 [wa-sseo-yo];came / to have come
+came / to have come;왔어요 [wa-sseo-yo]
+있었어요 [i-sseo-sseo-yo];was / to have been
+was / to have been;있었어요 [i-sseo-sseo-yo]
+봤어요 [bwa-sseo-yo];saw / to have seen
+saw / to have seen;봤어요 [bwa-sseo-yo]
+했어요 [hae-sseo-yo];did / to have done
+did / to have done;했어요 [hae-sseo-yo]
+# TTMIK Level 1 Lesson 19
+도착하다 [do-cha-ka-da];to arrive
+to arrive;도착하다 [do-cha-ka-da]
+언제 했어요? [eon-je hae-sseo-yo?];When did you do it?
+When did you do it?;언제 했어요? [eon-je hae-sseo-yo?]
+언제 도착했어요? [eon-je do-cha-kae-sseo-yo?];When did you arrive?
+When did you arrive?;언제 도착했어요? [eon-je do-cha-kae-sseo-yo?]
+언제 왔어요? [eon-je wa-sseo-yo?];When did you come?
+When did you come?;언제 왔어요? [eon-je wa-sseo-yo?]
+일어나다 [i-reo-na-da];to get up
+to get up;일어나다 [i-reo-na-da]
+언제 일어나요? [eon-je i-reo-na-yo?];When do you get up?
+When do you get up?;언제 일어나요? [eon-je i-reo-na-yo?]
+아침 [a-chim];morning
+morning;아침 [a-chim]
+아침에 언제 일어나요? [a-chi-me eon-je i-reo-na-yo?];In the morning, when do you get up?
+In the morning, when do you get up?;아침에 언제 일어나요? [a-chi-me eon-je i-reo-na-yo?]
+몇 시에 [myeot si-e];at what time
+at what time;몇 시에 [myeot si-e]
+아침에 몇 시에 일어나요? [a-chi-me myeot si-e i-reo-na-yo?];What time do you get up in the morning?
+What time do you get up in the morning?;아침에 몇 시에 일어나요? [a-chi-me myeot si-e i-reo-na-yo?]
+오늘 [o-neul];today
+today;오늘 [o-neul]
+어제 [eo-je];yesterday
+yesterday;어제 [eo-je]
+내일 [nae-il];tomorrow
+tomorrow;내일 [nae-il]
+지금 [ ji-geum];now
+now;지금 [ ji-geum]
+아까 [a-kka];earlier (today), a while ago (today)
+earlier (today), a while ago (today);아까 [a-kka]
+나중에 [na-jung-e];later
+later;나중에 [na-jung-e]
+# TTMIK Level 1 Lesson 20
+하나 [ha-na];1 (in Native Korean numbers)
+1 (in Native Korean numbers);하나 [ha-na]
+둘 [dul];2 (in Native Korean numbers)
+2 (in Native Korean numbers);둘 [dul]
+셋 [set];3 (in Native Korean numbers)
+3 (in Native Korean numbers);셋 [set]
+넷 [net];4 (in Native Korean numbers)
+4 (in Native Korean numbers);넷 [net]
+다섯 [da-seot];5 (in Native Korean numbers)
+5 (in Native Korean numbers);다섯 [da-seot]
+여섯 [yeo-seot];6 (in Native Korean numbers)
+6 (in Native Korean numbers);여섯 [yeo-seot]
+일곱 [il-gop];7 (in Native Korean numbers)
+7 (in Native Korean numbers);일곱 [il-gop]
+여덟 [yeo-deol];8 (in Native Korean numbers)
+8 (in Native Korean numbers);여덟 [yeo-deol]
+아홉 [a-hop];9 (in Native Korean numbers)
+9 (in Native Korean numbers);아홉 [a-hop]
+열 [yeol];10 (in Native Korean numbers)
+10 (in Native Korean numbers);열 [yeol]
+열하나 [yeol-ha-na];11 (in Native Korean numbers)
+11 (in Native Korean numbers);열하나 [yeol-ha-na]
+열다섯 [yeol-da-seot];15 (in Native Korean numbers)
+15 (in Native Korean numbers);열다섯 [yeol-da-seot]
+열아홉 [yeol-a-hop];19 (in Native Korean numbers)
+19 (in Native Korean numbers);열아홉 [yeol-a-hop]
+스물 [seu-mul];20 (in Native Korean numbers)
+20 (in Native Korean numbers);스물 [seu-mul]
+서른 [seo-reun];30 (in Native Korean numbers)
+30 (in Native Korean numbers);서른 [seo-reun]
+마흔 [ma-heun];40 (in Native Korean numbers)
+40 (in Native Korean numbers);마흔 [ma-heun]
+쉰 [swin];50 (in Native Korean numbers)
+50 (in Native Korean numbers);쉰 [swin]
+예순 [ye-sun];60 (in Native Korean numbers)
+60 (in Native Korean numbers);예순 [ye-sun]
+일흔 [il-heun];70 (in Native Korean numbers)
+70 (in Native Korean numbers);일흔 [il-heun]
+여든 [yeo-deun];80 (in Native Korean numbers)
+80 (in Native Korean numbers);여든 [yeo-deun]
+아흔 [a-heun];90 (in Native Korean numbers)
+90 (in Native Korean numbers);아흔 [a-heun]
+백하나 [baek-ha-na];101 (Native Korean)
+101 (Native Korean);백하나 [baek-ha-na]
+이백다섯 [i-baek-da-seot];205
+205;이백다섯 [i-baek-da-seot]
+한 살이에요 [han sa-ri-e-yo];I am one year old.
+I am one year old.;한 살이에요 [han sa-ri-e-yo]
+열 살이에요 [yeol sa-ri-e-yo];I am ten years old.
+I am ten years old.;열 살이에요 [yeol sa-ri-e-yo]
+스무 살이에요 [seu-mu sa-ri-e-yo];I am twenty years old.
+I am twenty years old.;스무 살이에요 [seu-mu sa-ri-e-yo]
+서른 살이에요 [seo-reun sa-ri-e-yo];I am thirty years old.
+I am thirty years old.;서른 살이에요 [seo-reun sa-ri-e-yo]
+# TTMIK Level 1 Lesson 21
+집에 안 가요. [ji-be an ga-yo.];I am NOT going home. / I DO NOT go home.
+I am NOT going home. / I DO NOT go home.;집에 안 가요. [ji-be an ga-yo.]
+버리다 [beo-ri-da];to throw away
+to throw away;버리다 [beo-ri-da]
+그거 안 버렸어요. [geu-geo an beo-ryeo-sseo-yo.];I DID NOT throw it away.
+I DID NOT throw it away.;그거 안 버렸어요. [geu-geo an beo-ryeo-sseo-yo.]
+안 먹어요? [an meo-geo-yo?];You are not going to eat?
+You are not going to eat?;안 먹어요? [an meo-geo-yo?]
+안 먹어요! [an meo-geo-yo!];I am not eating!
+I am not eating!;안 먹어요! [an meo-geo-yo!]
+정말 안 먹어요? 맛있어요! [jeong-mal an meo-geo-yo? ma-si-sseo-yo!];You are really not going to eat? It is delicious.
+You are really not going to eat? It is delicious.;정말 안 먹어요? 맛있어요! [jeong-mal an meo-geo-yo? ma-si-sseo-yo!]
+가지 않았어요 [ga-ji a-na-sseo-yo];I DID NOT go. (more formal)
+I DID NOT go. (more formal);가지 않았어요 [ga-ji a-na-sseo-yo]
+버리지 않았어요 [beo-ri-ji a-na-sseo-yo];I DID NOT throw it away. (more formal)
+I DID NOT throw it away. (more formal);버리지 않았어요 [beo-ri-ji a-na-sseo-yo]
+안 먹어요. 배 안 고파요. [an meo-geo-yo. bae an go-pa-yo.];I am not eating. I am not hungry.
+I am not eating. I am not hungry.;안 먹어요. 배 안 고파요. [an meo-geo-yo. bae an go-pa-yo.]
+이거 매워요? [i-geo mae-wo-yo?];Is this spicy?
+Is this spicy?;이거 매워요? [i-geo mae-wo-yo?]
+아니요. 안 매워요. [a-ni-yo. an mae-wo-yo];No. It is not spicy.
+No. It is not spicy.;아니요. 안 매워요. [a-ni-yo. an mae-wo-yo]
+# TTMIK Level 1 Lesson 22
+# nothing much too new here
+# TTMIK Level 1 Lesson 23
+누구예요? [nu-gu-ye-yo?];Who is it?
+Who is it?;누구예요? [nu-gu-ye-yo?]
+누가 했어요? [nu-ga hae-sseo-yo?];Who did it?
+Who did it?;누가 했어요? [nu-ga hae-sseo-yo?]
+어제 누가 왔어요? [eo-je nu-ga wa-sseo-yo?];Who came yesterday?
+Who came yesterday?;어제 누가 왔어요? [eo-je nu-ga wa-sseo-yo?]
+누가 샀어요? [nu-ga sa-sseo-yo?];Who bought it?
+Who bought it?;누가 샀어요? [nu-ga sa-sseo-yo?]
+# TTMIK Level 1 Lesson 24
+뭐 [mwo];What
+What;뭐 [mwo]
+어디 [eo-di];Where
+Where;어디 [eo-di]
+언제 [eon-je];When
+When;언제 [eon-je]
+누구 [nu-gu];Who
+Who;누구 [nu-gu]
+어떻게 [eo-tteo-ke];How
+How;어떻게 [eo-tteo-ke]
+왜 [wae];Why
+Why;왜 [wae]
+얼마 [eol-ma];How much (money)
+How much (money);얼마 [eol-ma]
+얼마나 [eol-ma-na];How + adjective/adverb
+How + adjective/adverb;얼마나 [eol-ma-na]
+찾다 [cha-da];to find, to look for
+to find, to look for;찾다 [cha-da]
+어떻게 찾았어요? [eo-tteo-ke cha-ja-sseo-yo?];How did you find it?
+How did you find it?;어떻게 찾았어요? [eo-tteo-ke cha-ja-sseo-yo?]
+어떻게 왔어요? [eo-tteo-ke wa-sseo-yo?];How did you get here?
+How did you get here?;어떻게 왔어요? [eo-tteo-ke wa-sseo-yo?]
+왜 전화했어요? [wae jeon-hwa-hae-sseo-yo?];Why did you call?
+Why did you call?;왜 전화했어요? [wae jeon-hwa-hae-sseo-yo?]
+왜 안 왔어요? [wae an wa-sseo-yo?];Why didn’t you come?
+Why didn’t you come?;왜 안 왔어요? [wae an wa-sseo-yo?]
+이거 얼마예요? [i-geo eol-ma-ye-yo?];How much is this?
+How much is this?;이거 얼마예요? [i-geo eol-ma-ye-yo?]
+내다 [nae-da];to pay
+to pay;내다 [nae-da]
+얼마 냈어요? [eol-ma nae-sseo-yo?];How much did you pay?
+How much did you pay?;얼마 냈어요? [eol-ma nae-sseo-yo?]
+자주 [ja-ju];often
+often;자주 [ja-ju]
+얼마나 자주 와요? [eol-ma-na ja-ju wa-yo?];How often do you come?
+How often do you come?;얼마나 자주 와요? [eol-ma-na ja-ju wa-yo?]
+크다 [keu-da];to be big
+to be big;크다 [keu-da]
+얼마나 커요? [eol-ma-na keo-yo?];How big is it?
+How big is it?;얼마나 커요? [eol-ma-na keo-yo?]
+# TTMIK Level 1 Lesson 25
+서울에서 [seo-u-re-seo];(from Seoul to another place)
+(from Seoul to another place);서울에서 [seo-u-re-seo]
+지금부터 [ji-geum-bu-teo];From now
+From now;지금부터 [ji-geum-bu-teo]
+어제부터 [eo-je-bu-teo];From (or since) yesterday
+From (or since) yesterday;어제부터 [eo-je-bu-teo]
+서울까지 [seo-ul-kka-ji];(From somewhere else) to Seoul
+(From somewhere else) to Seoul;서울까지 [seo-ul-kka-ji]
+지금까지 [ji-geum-kka-ji];Until now
+Until now;지금까지 [ji-geum-kka-ji]
+내일까지 [nae-il-kka-ji];Until tomorrow
+Until tomorrow;내일까지 [nae-il-kka-ji]
+서울에서 부산까지 [seo-ul-e-seo bu-san-kka-ji];From Seoul to Busan
+From Seoul to Busan;서울에서 부산까지 [seo-ul-e-seo bu-san-kka-ji]
+아침부터 저녁까지 [a-chim-bu-teo jeo-nyeok-kka-ji];From morning until evening
+From morning until evening;아침부터 저녁까지 [a-chim-bu-teo jeo-nyeok-kka-ji]
+이 책은 처음부터 끝까지 정말 재밌어요. [i chaek-eun cheo-eum-bu-teo kkeut-kka-ji jeong-mal jae-mi-sseo-yo.];This book, it is really interesting from the beginning to the end.
+This book, it is really interesting from the beginning to the end.;이 책은 처음부터 끝까지 정말 재밌어요. [i chaek-eun cheo-eum-bu-teo kkeut-kka-ji jeong-mal jae-mi-sseo-yo.]
+언제 읽었어요? [eon-je il-geo-sseo-yo?];When did you read it?
+When did you read it?;언제 읽었어요? [eon-je il-geo-sseo-yo?]
+주말에 읽었어요. [ju-mal-e il-geo-sseo-yo.];I read it over the weekend.
+I read it over the weekend.;주말에 읽었어요. [ju-mal-e il-geo-sseo-yo.]
+어디에서 읽었어요? [eo-di-e-seo il-geo-sseo-yo?];Where did you read it?
+Where did you read it?;어디에서 읽었어요? [eo-di-e-seo il-geo-sseo-yo?]
+집에서 읽었어요. [jip-e-seo il-geo-sseo-yo.];I read it at home.
+I read it at home.;집에서 읽었어요. [jip-e-seo il-geo-sseo-yo.]
+# TTMIK Level 1 Summary Test
+선물 [seon-mul];present, gift
+present, gift;선물 [seon-mul]
+생일 [saeng-il];birthday
+birthday;생일 [saeng-il]
+잔 [jan];cup
+cup;잔 [jan]
+다른 [da-reun];different
+different;다른 [da-reun]
+기다리다 [gi-da-ri-da];to wait
+to wait;기다리다 [gi-da-ri-da]
+누구 기다려요? [nu-gu gi-da-ryeo-yo?];Whom are you waiting for?
+Whom are you waiting for?;누구 기다려요? [nu-gu gi-da-ryeo-yo?]
+왜 기다렸어요? [wae gi-da-ryeo-sseo-yo?];Why did you wait?
+Why did you wait?;왜 기다렸어요? [wae gi-da-ryeo-sseo-yo?]
+안 기다렸어요 [an gi-da-ryeo-sseo-yo];I didn’t wait.
+I didn’t wait.;안 기다렸어요 [an gi-da-ryeo-sseo-yo]
+운동 [un-dong];exercise
+exercise;운동 [un-dong]
+언제 운동해요? [eon-je un-dong-hae-yo?];When do you exercise?
+When do you exercise?;언제 운동해요? [eon-je un-dong-hae-yo?]
+어디에서 운동해요? [eo-di-e-seo un-dong-hae-yo?];Where do you exercise?
+Where do you exercise?;어디에서 운동해요? [eo-di-e-seo un-dong-hae-yo?]
+공원 [gong-won];park
+park;공원 [gong-won]
+공원에서 운동해요. [gong-won-e-seo un-dong-hae-yo.];I exercise in the park.
+I exercise in the park.;공원에서 운동해요. [gong-won-e-seo un-dong-hae-yo.]
+백오십구 [baek-o-ship-gu];159 (Sino-Korean)
+159 (Sino-Korean);백오십구 [baek-o-ship-gu]
+천이백이십오 [cheon-i-baek-i-ship-o];1225 (Sino-Korean)
+1225 (Sino-Korean);천이백이십오 [cheon-i-baek-i-ship-o]
+민아: 민수 씨 안녕하세요. [Mina: Min-su ssi an-nyeong-ha-se-yo.];Mina: Minsu, hello.
+Mina: Minsu, hello.;민아: 민수 씨 안녕하세요. [Mina: Min-su ssi an-nyeong-ha-se-yo.]
+민수: 아, 네, 민아 씨, 안녕하세요! 이거 뭐예요? [Min-su: A, ne, Mina ssi, an-nyeong-ha-se-yo! I-geo mwo-ye-yo?];Minsu: Oh, hi, Mina. Hi. What is this?
+Minsu: Oh, hi, Mina. Hi. What is this?;민수: 아, 네, 민아 씨, 안녕하세요! 이거 뭐예요? [Min-su: A, ne, Mina ssi, an-nyeong-ha-se-yo! I-geo mwo-ye-yo?]
+민아: 이거요? 이거 선물이에요. [Mina: I-geo-yo? I-geo seon-mul-i-e-yo.];Mina: This? This is a present.
+Mina: This? This is a present.;민아: 이거요? 이거 선물이에요. [Mina: I-geo-yo? I-geo seon-mul-i-e-yo.]
+민수: 선물이요? 우와. 감사합니다. [Min-su: Seon-mul-i-yo? U-wa. Kam-sa-ham-ni-da.];Minsu: A present? Wow. Thank you.
+Minsu: A present? Wow. Thank you.;민수: 선물이요? 우와. 감사합니다. [Min-su: Seon-mul-i-yo? U-wa. Kam-sa-ham-ni-da.]
+민아: 아니요, 민수 씨 선물 아니에요. 다른 사람 선물이에요. [Mina: A-ni-yo, Min-su ssi seon-mul a-ni-e-yo. Da-reun sa-ram seon-mul-i-e-yo.];Mina: No, it’s not a present for you, Minsu. It’s a present for someone else.
+Mina: No, it’s not a present for you, Minsu. It’s a present for someone else.;민아: 아니요, 민수 씨 선물 아니에요. 다른 사람 선물이에요. [Mina: A-ni-yo, Min-su ssi seon-mul a-ni-e-yo. Da-reun sa-ram seon-mul-i-e-yo.]
+민수: 다른 사람이요? 누구요? [Min-su: Da-reun sa-ram-i-yo? Nu-gu-yo?];Minsu: Someone else? Who?
+Minsu: Someone else? Who?;민수: 다른 사람이요? 누구요? [Min-su: Da-reun sa-ram-i-yo? Nu-gu-yo?]
+민아: 오늘 현주 씨 생일이에요. [Mina: O-neul Hyeon-ju ssi saeng-il-i-e-yo.];Mina: Today is Hyeonju’s birthday.
+Mina: Today is Hyeonju’s birthday.;민아: 오늘 현주 씨 생일이에요. [Mina: O-neul Hyeon-ju ssi saeng-il-i-e-yo.]
+민수: 정말요? 몰랐어요. [Min-su: Jeong-mal-yo? Mol-la-sseo-yo.];Minsu: Really? I didn’t know.
+Minsu: Really? I didn’t know.;민수: 정말요? 몰랐어요. [Min-su: Jeong-mal-yo? Mol-la-sseo-yo.]
+민아: 어, 저기, 현주 씨 왔어요. [Mina: Eo, jeo-gi, Hyeon-ju ssi wa-sseo-yo.];Mina: Oh, there, Hyeonju came.
+Mina: Oh, there, Hyeonju came.;민아: 어, 저기, 현주 씨 왔어요. [Mina: Eo, jeo-gi, Hyeon-ju ssi wa-sseo-yo.]
+현주: 민아 씨, 민수 씨, 안녕하세요! [Hyeon-ju: Mina ssi, Min-su ssi, an-nyeong-ha-se-yo!];Hyeonju: Mina, Minsu, hi!
+Hyeonju: Mina, Minsu, hi!;현주: 민아 씨, 민수 씨, 안녕하세요! [Hyeon-ju: Mina ssi, Min-su ssi, an-nyeong-ha-se-yo!]
+민아: 생일 축하해요. 선물이에요. [Mina: Saeng-il chuk-ha-hae-yo. Seon-mul-i-e-yo.];Mina: Happy birthday. It’s a present.
+Mina: Happy birthday. It’s a present.;민아: 생일 축하해요. 선물이에요. [Mina: Saeng-il chuk-ha-hae-yo. Seon-mul-i-e-yo.]
+현주: 우와. 감사합니다. [Hyeon-ju: U-wa. Kam-sa-ham-ni-da.];Hyeonju: Wow. Thank you.
+Hyeonju: Wow. Thank you.;현주: 우와. 감사합니다. [Hyeon-ju: U-wa. Kam-sa-ham-ni-da.]
+민수: 현주 씨, 생일 축하해요. 저는... 선물이 없어요. 생일을 몰랐어요. [Min-su: Hyeon-ju ssi, saeng-il chuk-ha-hae-yo. Jeo-neun... seon-mul-i eob-seo-yo. Saeng-il-eul mol-la-sseo-yo.];Minsu: Hyeonju, happy birthday. I... don’t have a present. I didn’t know your birthday.
+Minsu: Hyeonju, happy birthday. I... don’t have a present. I didn’t know your birthday.;민수: 현주 씨, 생일 축하해요. 저는... 선물이 없어요. 생일을 몰랐어요. [Min-su: Hyeon-ju ssi, saeng-il chuk-ha-hae-yo. Jeo-neun... seon-mul-i eob-seo-yo. Saeng-il-eul mol-la-sseo-yo.]
+현주: 괜찮아요. 감사합니다. [Hyeon-ju: Gwaen-chanh-a-yo. Kam-sa-ham-ni-da.];Hyeonju: It’s okay. Thank you.
+Hyeonju: It’s okay. Thank you.;현주: 괜찮아요. 감사합니다. [Hyeon-ju: Gwaen-chanh-a-yo. Kam-sa-ham-ni-da.]
+민아: 민수 씨는 언제까지 시간 있어요? [Mina: Min-su ssi-neun eon-je-kka-ji si-gan is-seo-yo?];Mina: Minsu, until when do you have time?
+Mina: Minsu, until when do you have time?;민아: 민수 씨는 언제까지 시간 있어요? [Mina: Min-su ssi-neun eon-je-kka-ji si-gan is-seo-yo?]
+민수: 저요? 저는 일곱 시까지 시간 있어요. [Min-su: Jeo-yo? Jeo-neun il-gop si-kka-ji si-gan is-seo-yo.];Minsu: Me? I have time until 7 o’clock.
+Minsu: Me? I have time until 7 o’clock.;민수: 저요? 저는 일곱 시까지 시간 있어요. [Min-su: Jeo-yo? Jeo-neun il-gop si-kka-ji si-gan is-seo-yo.]
+민아: 좋아요. 현주 씨, 뭐 하고 싶어요? [Mina: Jo-a-yo. Hyeon-ju ssi, mwo ha-go sip-eo-yo?];Mina: Good. Hyeonju, what do you want to do?
+Mina: Good. Hyeonju, what do you want to do?;민아: 좋아요. 현주 씨, 뭐 하고 싶어요? [Mina: Jo-a-yo. Hyeon-ju ssi, mwo ha-go sip-eo-yo?]
+현주: 저요? 글쎄요... [Hyeon-ju: Jeo-yo? Geul-sse-yo...];Hyeonju: Me? Well...
+Hyeonju: Me? Well...;현주: 저요? 글쎄요... [Hyeon-ju: Jeo-yo? Geul-sse-yo...]
+민아: 민수 씨, 배고파요? 저는 피자 먹고 싶어요. [Mina: Min-su ssi, bae-go-pa-yo? Jeo-neun pi-ja meok-go sip-eo-yo.];Mina: Minsu, are you hungry? I want to have pizza.
+Mina: Minsu, are you hungry? I want to have pizza.;민아: 민수 씨, 배고파요? 저는 피자 먹고 싶어요. [Mina: Min-su ssi, bae-go-pa-yo? Jeo-neun pi-ja meok-go sip-eo-yo.]
+민수: 네? 네... 저기... 현주 씨는요? 피자 먹고 싶어요? [Min-su: Ne? Ne... Jeo-gi... Hyeon-ju ssi-neun-yo? Pi-ja meok-go sip-eo-yo?];Minsu: What? I see... um... Hyeonju, how about you? Do you want to have pizza?
+Minsu: What? I see... um... Hyeonju, how about you? Do you want to have pizza?;민수: 네? 네... 저기... 현주 씨는요? 피자 먹고 싶어요? [Min-su: Ne? Ne... Jeo-gi... Hyeon-ju ssi-neun-yo? Pi-ja meok-go sip-eo-yo?]
+현주: 네. 저도 피자 좋아요. [Hyeon-ju: Ne. Jeo-do pi-ja jo-a-yo.];Hyeonju: Yeah... I like pizza too.
+Hyeonju: Yeah... I like pizza too.;현주: 네. 저도 피자 좋아요. [Hyeon-ju: Ne. Jeo-do pi-ja jo-a-yo.]
+민수: 저기요. 김치 불고기 치즈 피자 하나 주세요. [Min-su: Jeo-gi-yo. Kim-chi bul-go-gi chi-jeu pi-ja ha-na ju-se-yo.];Minsu: Excuse me. Give us one kimchi bulgogi cheese pizza.
+Minsu: Excuse me. Give us one kimchi bulgogi cheese pizza.;민수: 저기요. 김치 불고기 치즈 피자 하나 주세요. [Min-su: Jeo-gi-yo. Kim-chi bul-go-gi chi-jeu pi-ja ha-na ju-se-yo.]
+민아: 김치 불고기 치즈 피자요? [Mina: Kim-chi bul-go-gi chi-jeu pi-ja-yo?];Mina: Kimchi bulgogi cheese pizza?
+Mina: Kimchi bulgogi cheese pizza?;민아: 김치 불고기 치즈 피자요? [Mina: Kim-chi bul-go-gi chi-jeu pi-ja-yo?]
+민수: 맛있어요! 아, 저기요! 콜라 세 잔 주세요. [Min-su: Ma-sis-seo-yo! Ah, jeo-gi-yo! Ko-la se jan ju-se-yo.];Minsu: It’s delicious! Oh, excuse me! Give us three cups of cola.
+Minsu: It’s delicious! Oh, excuse me! Give us three cups of cola.;민수: 맛있어요! 아, 저기요! 콜라 세 잔 주세요. [Min-su: Ma-sis-seo-yo! Ah, jeo-gi-yo! Ko-la se jan ju-se-yo.]
+민아: 저는 콜라 안 마시고 싶어요. 저는 맥주 주세요. [Mina: Jeo-neun ko-la an ma-si-go sip-eo-yo. Jeo-neun maek-ju ju-se-yo.];Mina: I don’t want to drink cola. Give me beer.
+Mina: I don’t want to drink cola. Give me beer.;민아: 저는 콜라 안 마시고 싶어요. 저는 맥주 주세요. [Mina: Jeo-neun ko-la an ma-si-go sip-eo-yo. Jeo-neun maek-ju ju-se-yo.]
+민수: 여기 맥주 없어요. [Min-su: Yeogi maek-ju eob-seo-yo.];Minsu: There is no beer here.
+Minsu: There is no beer here.;민수: 여기 맥주 없어요. [Min-su: Yeogi maek-ju eob-seo-yo.]
+민아: 있어요. [Mina: Is-seo-yo.];Mina: There is.
+Mina: There is.;민아: 있어요. [Mina: Is-seo-yo.]
+현주: 저기요, 여기 맥주 있어요? 네, 맥주 하나 주세요. [Hyeon-ju: Jeo-gi-yo, yeogi maek-ju is-seo-yo? Ne, maek-ju ha-na ju-se-yo.];Hyeonju: Excuse me, do you have beer here? Yes, give us one beer.
+Hyeonju: Excuse me, do you have beer here? Yes, give us one beer.;현주: 저기요, 여기 맥주 있어요? 네, 맥주 하나 주세요. [Hyeon-ju: Jeo-gi-yo, yeogi maek-ju is-seo-yo? Ne, maek-ju ha-na ju-se-yo.]
+민수: 누가 피자집에서 맥주를 마셔요? [Min-su: Nu-ga pi-ja-jip-e-seo maek-ju-reul ma-syeo-yo?];Minsu: Who drinks beer in a pizza place?
+Minsu: Who drinks beer in a pizza place?;민수: 누가 피자집에서 맥주를 마셔요? [Min-su: Nu-ga pi-ja-jip-e-seo maek-ju-reul ma-syeo-yo?]
+민아: 왜요? 이상해요? [Mina: Wae-yo? I-sang-hae-yo?];Mina: Why? Is it strange?
+Mina: Why? Is it strange?;민아: 왜요? 이상해요? [Mina: Wae-yo? I-sang-hae-yo?]
+민수: 아니에요. [Min-su: A-ni-e-yo.];Minsu: No.
+Minsu: No.;민수: 아니에요. [Min-su: A-ni-e-yo.]
+현주: 피자 나왔어요. [Hyeon-ju: Pi-ja na-was-seo-yo.];Hyeonju: The pizza came out.
+Hyeonju: The pizza came out.;현주: 피자 나왔어요. [Hyeon-ju: Pi-ja na-was-seo-yo.]
+민아: 맥주는요? [Mina: Maek-ju-neun-yo?];Mina: And beer?
+Mina: And beer?;민아: 맥주는요? [Mina: Maek-ju-neun-yo?]
+현주: 여기 있어요. [Hyeon-ju: Yeogi is-seo-yo.];Hyeonju: It’s here.
+Hyeonju: It’s here.;현주: 여기 있어요. [Hyeon-ju: Yeogi is-seo-yo.]
