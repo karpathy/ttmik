@@ -17,11 +17,14 @@
 
 # TTMIK Level 1 Lesson 3
 안녕히 계세요. [an-nyeong-hi gye-se-yo.] = Stay in peace.
-안녕히 가세요. [an-nyeong-hi ga-se-yo.] = Go in peace.
+안녕히 가세요. [an-nyeong-hi ga-se-yo.] = Go in peace. / Good bye. 
+환영합니다. [hwan-young-ham-ni-da] = Welcome. 
 
 # TTMIK Level 1 Lesson 4
 죄송합니다 [joe-song-ham-ni-da] = I am sorry.
-저기요 [jeo-gi-yo] = Excuse me.
+미안합니다 [mi-ahn-ham-ni-da] = I am sorry. 
+실례합니다 [sil-lye-ham-ni-da] = Excuse me. 
+저기요 [jeo-gi-yo] = Excuse me. / Hey.
 # 잠시만요. [jam-si-man-nyo] = Just a second.
 # 잠깐만요. [jam-kkan-man-nyo] = Just a second.
 
@@ -30,8 +33,9 @@
 가방이에요. [ga-bang-i-e-yo] = It is a bag.
 사무실이에요. [sa-mu-sil-i-e-yo] = It is an office.
 학교예요. [hak-kkyo-ye-yo] = It is a school.
-학생이에요. [hak-ssaeng-i-e-yo] = I am a student.
-저예요 [jeo-ye-yo] = It is me. / It is I.
+나는 학생이에요. [na-nun-hak-ssaeng-i-e-yo] = I am a student.
+저예요. [jeo-ye-yo] = It is me. / It is I.
+내꺼에요. [nae-kkeo-ye-yo] = It is mine. 
 뭐 [mwo] = what
 뭐예요? [mwo-ye-yo?] = What is it? / What is that?
 
@@ -77,10 +81,13 @@ TalkToMeInKorean 재미있어요! [jae-mi-i-sseo-yo!] = TalkToMeInKorean is fun!
 시간 없어요? [si-gan eop-sseo-yo?] = You do not have time?
 돈 있어요? [don i-sseo-yo?] = Do you have money?
 돈 없어요? [don eop-sseo-yo?] = You do not have money?
+돈 없어요. [don eop-seeo-yo.] = I do not have money. 
 맥주 주세요. [maek-jju ju-se-yo.] = Please give me a beer.
 사과 주세요. [sa-gwa ju-se-yo.] = Give me (an/some) apple(s).
 네. 우유 있어요. [ne. u-yu i-sseo-yo.] = Yes, we have milk.
 밥 주세요. [bap ju-se-yo.] = Please give me rice. / Please give me food.
+밥 좀 더 주세요. [bap jom-the-ju-se-yo.] = Please give me some more rice. / Please give me some more food.
+밥 많이 주세요. [bap ma-ni-ju-se-yo.] = Please give me a lot of rice. / Please give me a lot of food.
 
 # TTMIK Level 1 Lesson 12
 맛있어요. [ma-si-sseo-yo.] = It is delicious.
@@ -247,6 +254,18 @@ TalkToMeInKorean 재미있어요! [jae-mi-i-sseo-yo!] = TalkToMeInKorean is fun!
 아니요. 안 매워요. [a-ni-yo. an mae-wo-yo] = No. It is not spicy.
 
 # TTMIK Level 1 Lesson 22
+형 [hyeong] = Older brother
+동생 [dong-saeng] = Younger brother 
+누나 [nu-na] = Sister 
+오빠 [oppa] = Older brother
+엄마 [eom-ma] = Mom
+아빠 [ap-pa] = Dad 
+할머니 [hal-meo-ni] = Grandma 
+할아버지 [hal-a-beo-ji] = Grandfather 
+고모 [go-mo] = Aunt 
+이모 [ee-mo] = Aunt
+아저씨 [ah-jeo-ssi] = Mister / Uncle 
+아줌마 [ah-jum-ma] = Madame / Auntie 
 # nothing much too new here
 
 # TTMIK Level 1 Lesson 23
