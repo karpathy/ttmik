@@ -1,0 +1,712 @@
+존댓말;formal/polite Korean
+formal/polite Korean;존댓말
+반말;intimate/informal language
+intimate/informal language;반말
+안녕하세요;Hello / Hi
+Hello / Hi;안녕하세요
+감사합니다;Thank you
+Thank you;감사합니다
+여기요;Here you go
+Here you go;여기요
+네.;Yes.
+Yes.;네.
+아니요.;No.
+No.;아니요.
+네;Agreement / Got it / I see / "What did you say?"
+Agreement / Got it / I see / "What did you say?";네
+커피 좋아해요?;Do you like coffee?
+Do you like coffee?;커피 좋아해요?
+아니요. 커피 안 좋아해요.;No, I don’t like coffee.
+No, I don’t like coffee.;아니요. 커피 안 좋아해요.
+네, 맞아요.;Yes, that is right.
+Yes, that is right.;네, 맞아요.
+안녕히 계세요.;Stay in peace.
+Stay in peace.;안녕히 계세요.
+안녕히 가세요.;Go in peace.
+Go in peace.;안녕히 가세요.
+죄송합니다;I am sorry.
+I am sorry.;죄송합니다
+저기요;Excuse me.
+Excuse me.;저기요
+/ 잠시만요.;Just a second.
+Just a second.;/ 잠시만요.
+/ 잠깐만요.;Just a second.
+Just a second.;/ 잠깐만요.
+물이에요?;Is that water? / Is this water?
+Is that water? / Is this water?;물이에요?
+가방이에요.;It is a bag.
+It is a bag.;가방이에요.
+사무실이에요.;It is an office.
+It is an office.;사무실이에요.
+학교예요.;It is a school.
+It is a school.;학교예요.
+학생이에요.;I am a student.
+I am a student.;학생이에요.
+저예요;It is me. / It is I.
+It is me. / It is I.;저예요
+뭐;what
+what;뭐
+뭐예요?;What is it? / What is that?
+What is it? / What is that?;뭐예요?
+이거 책이에요.;This is a book.
+This is a book.;이거 책이에요.
+이거 핸드폰이에요.;This is a cellphone.
+This is a cellphone.;이거 핸드폰이에요.
+이거 사전이에요.;This is a dictionary.
+This is a dictionary.;이거 사전이에요.
+네. 맞아요. 이거 커피예요.;Yes, that’s right. This is coffee.
+Yes, that’s right. This is coffee.;네. 맞아요. 이거 커피예요.
+이 사람;this person, this man here, this lady here, he, she
+this person, this man here, this lady here, he, she;이 사람
+그 사람;the person, that person, he, she
+the person, that person, he, she;그 사람
+저 사람;that person over there, he, she
+that person over there, he, she;저 사람
+우유 아니에요.;It is not milk.
+It is not milk.;우유 아니에요.
+물 아니에요.;It is not water.
+It is not water.;물 아니에요.
+저 학생 아니에요.;I am not a student.
+I am not a student.;저 학생 아니에요.
+그거 고양이 아니에요.;It is not a cat.
+It is not a cat.;그거 고양이 아니에요.
+저거 술 아니에요.;That is not liquor.
+That is not liquor.;저거 술 아니에요.
+이 책 좋아요.;This book is good.
+This book is good.;이 책 좋아요.
+이거 사과예요.;This is an apple.
+This is an apple.;이거 사과예요.
+이거는 뭐예요?;And as for this one, what is it?
+And as for this one, what is it?;이거는 뭐예요?
+오늘 날씨 좋네요.;The weather is good today.
+The weather is good today.;오늘 날씨 좋네요.
+오늘은 날씨 좋네요.;The weather (has not been so good lately, but) today (it) is good.
+The weather (has not been so good lately, but) today (it) is good.;오늘은 날씨 좋네요.
+뭐가 좋아요?;WHAT is good?
+WHAT is good?;뭐가 좋아요?
+시간;time
+time;시간
+친구 있어요?;Do you have friends? / Do they have friends?
+Do you have friends? / Do they have friends?;친구 있어요?
+친구 없어요.;I do not have friends.
+I do not have friends.;친구 없어요.
+시간 없어요.;There is no time. / I do not have time. / We do not have time.
+There is no time. / I do not have time. / We do not have time.;시간 없어요.
+TalkToMeInKorean 재미있어요!;TalkToMeInKorean is fun! / TalkToMeInKorean is interesting!
+TalkToMeInKorean is fun! / TalkToMeInKorean is interesting!;TalkToMeInKorean 재미있어요!
+사과;apple
+apple;사과
+돈;money
+money;돈
+사과 있어요;I have an apple. / There are apples. / They have some apples.
+I have an apple. / There are apples. / They have some apples.;사과 있어요
+사과 없어요;I do not have an apple. / There is no apple.
+I do not have an apple. / There is no apple.;사과 없어요
+시간 있어요?;Do you have some time?
+Do you have some time?;시간 있어요?
+시간 없어요?;You do not have time?
+You do not have time?;시간 없어요?
+돈 있어요?;Do you have money?
+Do you have money?;돈 있어요?
+돈 없어요?;You do not have money?
+You do not have money?;돈 없어요?
+맥주 주세요.;Please give me a beer.
+Please give me a beer.;맥주 주세요.
+사과 주세요.;Give me (an/some) apple(s).
+Give me (an/some) apple(s).;사과 주세요.
+네. 우유 있어요.;Yes, we have milk.
+Yes, we have milk.;네. 우유 있어요.
+밥 주세요.;Please give me rice. / Please give me food.
+Please give me rice. / Please give me food.;밥 주세요.
+맛있어요.;It is delicious.
+It is delicious.;맛있어요.
+맛없어요.;It is not tasty.
+It is not tasty.;맛없어요.
+이거 맛있어요.;This is delicious.
+This is delicious.;이거 맛있어요.
+저 케이크 맛있어요.;That cake is delicious.
+That cake is delicious.;저 케이크 맛있어요.
+뭐가 맛있어요?;What is delicious?
+What is delicious?;뭐가 맛있어요?
+치킨 맛있어요.;Chicken is delicious.
+Chicken is delicious.;치킨 맛있어요.
+이거 맛없어요?;Does this taste awful?
+Does this taste awful?;이거 맛없어요?
+이 차 맛없어요.;This tea tastes awful.
+This tea tastes awful.;이 차 맛없어요.
+잘 먹겠습니다.;Thank you for the food. / I will enjoy it.
+Thank you for the food. / I will enjoy it.;잘 먹겠습니다.
+잘 먹었습니다.;I enjoyed the meal. / Thanks for the food.
+I enjoyed the meal. / Thanks for the food.;잘 먹었습니다.
+가다;to go
+to go;가다
+보다;to see
+to see;보다
+먹다;to eat
+to eat;먹다
+가고 싶어요.;I want to go.
+I want to go.;가고 싶어요.
+보고 싶어요.;I want to see/look/watch.
+I want to see/look/watch.;보고 싶어요.
+먹고 싶어요.;I want to eat.
+I want to eat.;먹고 싶어요.
+뭐 먹고 싶어요?;What do you want to eat?
+What do you want to eat?;뭐 먹고 싶어요?
+회 먹고 싶어요.;I want to eat raw fish.
+I want to eat raw fish.;회 먹고 싶어요.
+주세요.;Please give me.
+Please give me.;주세요.
+더 주세요.;Please give me more.
+Please give me more.;더 주세요.
+더 먹고 싶어요.;I want to eat more.
+I want to eat more.;더 먹고 싶어요.
+하다;to do
+to do;하다
+보다;to see
+to see;보다
+먹다;to eat
+to eat;먹다
+사다;to buy
+to buy;사다
+마시다;to drink
+to drink;마시다
+뭐 하고 싶어요?;What do you want to do?
+What do you want to do?;뭐 하고 싶어요?
+텔레비전 보고 싶어요.;I want to watch TV.
+I want to watch TV.;텔레비전 보고 싶어요.
+텔레비전 보고 싶어요?;You want to watch TV?
+You want to watch TV?;텔레비전 보고 싶어요?
+뭐 보고 싶어요?;What do you want to watch?
+What do you want to watch?;뭐 보고 싶어요?
+뉴스 보고 싶어요.;I want to watch the news.
+I want to watch the news.;뉴스 보고 싶어요.
+이거 사고 싶어요.;I want to buy this.
+I want to buy this.;이거 사고 싶어요.
+이거요?;This one?
+This one?;이거요?
+네. 이거 먹고 싶어요.;Yeah. I want to eat this.
+Yeah. I want to eat this.;네. 이거 먹고 싶어요.
+읽고 싶어요;I want to read.
+I want to read.;읽고 싶어요
+자고 싶어요.;I want to sleep.
+I want to sleep.;자고 싶어요.
+놀고 싶어요.;I want to play.
+I want to play.;놀고 싶어요.
+쉬고 싶어요;I want to rest.
+I want to rest.;쉬고 싶어요
+일하고 싶어요.;I want to work.
+I want to work.;일하고 싶어요.
+영화;movie
+movie;영화
+영화 보고 싶어요.;I want to watch a movie.
+I want to watch a movie.;영화 보고 싶어요.
+김밥 먹고 싶어요.;I want to eat kiimbap.
+I want to eat kiimbap.;김밥 먹고 싶어요.
+뭐 마시고 싶어요?;What would you like to drink?
+What would you like to drink?;뭐 마시고 싶어요?
+일;1 (in Sino-Korean numbers)
+1 (in Sino-Korean numbers);일
+이;2 (in Sino-Korean numbers)
+2 (in Sino-Korean numbers);이
+삼;3 (in Sino-Korean numbers)
+3 (in Sino-Korean numbers);삼
+사;4 (in Sino-Korean numbers)
+4 (in Sino-Korean numbers);사
+오;5 (in Sino-Korean numbers)
+5 (in Sino-Korean numbers);오
+륙 or 육;6 (in Sino-Korean numbers)
+6 (in Sino-Korean numbers);륙 or 육
+칠;7 (in Sino-Korean numbers)
+7 (in Sino-Korean numbers);칠
+팔;8 (in Sino-Korean numbers)
+8 (in Sino-Korean numbers);팔
+구;9 (in Sino-Korean numbers)
+9 (in Sino-Korean numbers);구
+십;10 (in Sino-Korean numbers)
+10 (in Sino-Korean numbers);십
+십일;11 (in Sino-Korean numbers)
+11 (in Sino-Korean numbers);십일
+이십오;25 (in Sino-Korean numbers)
+25 (in Sino-Korean numbers);이십오
+삼십삼;33 (in Sino-Korean numbers)
+33 (in Sino-Korean numbers);삼십삼
+구십구;99 (in Sino-Korean numbers)
+99 (in Sino-Korean numbers);구십구
+백;100 (in Sino-Korean numbers)
+100 (in Sino-Korean numbers);백
+천;1,000 (in Sino-Korean numbers)
+1,000 (in Sino-Korean numbers);천
+삼백십이;312 (in Sino-Korean numbers)
+312 (in Sino-Korean numbers);삼백십이
+영;0 (in Sino-Korean numbers, used for math problems etc., more like "zero")
+0 (in Sino-Korean numbers, used for math problems etc., more like "zero");영
+공;0 (in Sino-Korean numbers, used for phone numbers, dates, etc., similar to "oh")
+0 (in Sino-Korean numbers, used for phone numbers, dates, etc., similar to "oh");공
+백오십구;159 (Sino-Korean)
+159 (Sino-Korean);백오십구
+천이백이십오;1225 (Sino-Korean)
+1225 (Sino-Korean);천이백이십오
+가요;I go. / You go. / He goes. / She goes. / They go.
+I go. / You go. / He goes. / She goes. / They go.;가요
+먹어요;I eat. / You eat. / He eats. / etc.
+I eat. / You eat. / He eats. / etc.;먹어요
+봐요;I see. / I look. / I watch. / You look. / etc.
+I see. / I look. / I watch. / You look. / etc.;봐요
+보여요;I see it. / It is visible.
+I see it. / It is visible.;보여요
+오다;to come
+to come;오다
+적다;to write down
+to write down;적다
+샀어요;I bought / you bought / s/he bought / they bought / etc.
+I bought / you bought / s/he bought / they bought / etc.;샀어요
+왔어요;I came / you came / s/he came / they came / we came / etc.
+I came / you came / s/he came / they came / we came / etc.;왔어요
+적었어요;I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.
+I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.;적었어요
+했어요;I did / you did / he did / they did / etc.
+I did / you did / he did / they did / etc.;했어요
+어디 가고 싶어요?;Where do you want to go?
+Where do you want to go?;어디 가고 싶어요?
+학교에 갔어요.;I went to school.
+I went to school.;학교에 갔어요.
+한국에 왔어요.;I came to Korea.
+I came to Korea.;한국에 왔어요.
+지금 어디에 있어요?;Where are you now?
+Where are you now?;지금 어디에 있어요?
+사무실;work room, office
+work room, office;사무실
+사무실에;to the office, to an office, to my office
+to the office, to an office, to my office;사무실에
+사무실에서;from the office, from an office, from my office
+from the office, from an office, from my office;사무실에서
+사무실에 있어요.;I am at the office.
+I am at the office.;사무실에 있어요.
+집에 있어요.;I am at home.
+I am at home.;집에 있어요.
+집에 가요.;I am going home.
+I am going home.;집에 가요.
+집에서 일해요.;I work at home.
+I work at home.;집에서 일해요.
+집에서 뭐 해요?;What are you doing at home?
+What are you doing at home?;집에서 뭐 해요?
+사무실에서 일해요.;I work at the office.
+I work at the office.;사무실에서 일해요.
+갔어요;went / to have gone
+went / to have gone;갔어요
+왔어요;came / to have come
+came / to have come;왔어요
+있었어요;was / to have been
+was / to have been;있었어요
+봤어요;saw / to have seen
+saw / to have seen;봤어요
+했어요;did / to have done
+did / to have done;했어요
+도착하다;to arrive
+to arrive;도착하다
+언제 했어요?;When did you do it?
+When did you do it?;언제 했어요?
+언제 도착했어요?;When did you arrive?
+When did you arrive?;언제 도착했어요?
+언제 왔어요?;When did you come?
+When did you come?;언제 왔어요?
+일어나다;to get up
+to get up;일어나다
+언제 일어나요?;When do you get up?
+When do you get up?;언제 일어나요?
+아침;morning
+morning;아침
+아침에 언제 일어나요?;In the morning, when do you get up?
+In the morning, when do you get up?;아침에 언제 일어나요?
+몇 시에;at what time
+at what time;몇 시에
+아침에 몇 시에 일어나요?;What time do you get up in the morning?
+What time do you get up in the morning?;아침에 몇 시에 일어나요?
+오늘;today
+today;오늘
+어제;yesterday
+yesterday;어제
+내일;tomorrow
+tomorrow;내일
+지금;now
+now;지금
+아까;earlier (today), a while ago (today)
+earlier (today), a while ago (today);아까
+하나;1 (in Native Korean numbers)
+1 (in Native Korean numbers);하나
+둘;2 (in Native Korean numbers)
+2 (in Native Korean numbers);둘
+셋;3 (in Native Korean numbers)
+3 (in Native Korean numbers);셋
+넷;4 (in Native Korean numbers)
+4 (in Native Korean numbers);넷
+다섯;5 (in Native Korean numbers)
+5 (in Native Korean numbers);다섯
+여섯;6 (in Native Korean numbers)
+6 (in Native Korean numbers);여섯
+일곱;7 (in Native Korean numbers)
+7 (in Native Korean numbers);일곱
+여덟;8 (in Native Korean numbers)
+8 (in Native Korean numbers);여덟
+아홉;9 (in Native Korean numbers)
+9 (in Native Korean numbers);아홉
+열;10 (in Native Korean numbers)
+10 (in Native Korean numbers);열
+열하나;11 (in Native Korean numbers)
+11 (in Native Korean numbers);열하나
+열다섯;15 (in Native Korean numbers)
+15 (in Native Korean numbers);열다섯
+열아홉;19 (in Native Korean numbers)
+19 (in Native Korean numbers);열아홉
+스물;20 (in Native Korean numbers)
+20 (in Native Korean numbers);스물
+서른;30 (in Native Korean numbers)
+30 (in Native Korean numbers);서른
+마흔;40 (in Native Korean numbers)
+40 (in Native Korean numbers);마흔
+쉰;50 (in Native Korean numbers)
+50 (in Native Korean numbers);쉰
+예순;60 (in Native Korean numbers)
+60 (in Native Korean numbers);예순
+일흔;70 (in Native Korean numbers)
+70 (in Native Korean numbers);일흔
+여든;80 (in Native Korean numbers)
+80 (in Native Korean numbers);여든
+아흔;90 (in Native Korean numbers)
+90 (in Native Korean numbers);아흔
+백하나;101 (Native Korean)
+101 (Native Korean);백하나
+이백다섯;205
+205;이백다섯
+한 살이에요;I am one year old.
+I am one year old.;한 살이에요
+열 살이에요;I am ten years old.
+I am ten years old.;열 살이에요
+스무 살이에요;I am twenty years old.
+I am twenty years old.;스무 살이에요
+서른 살이에요;I am thirty years old.
+I am thirty years old.;서른 살이에요
+집에 안 가요.;I am NOT going home. / I DO NOT go home.
+I am NOT going home. / I DO NOT go home.;집에 안 가요.
+버리다;to throw away
+to throw away;버리다
+그거 안 버렸어요.;I DID NOT throw it away.
+I DID NOT throw it away.;그거 안 버렸어요.
+안 먹어요?;You are not going to eat?
+You are not going to eat?;안 먹어요?
+안 먹어요!;I am not eating!
+I am not eating!;안 먹어요!
+정말 안 먹어요? 맛있어요!;You are really not going to eat? It is delicious.
+You are really not going to eat? It is delicious.;정말 안 먹어요? 맛있어요!
+가지 않았어요;I DID NOT go. (more formal)
+I DID NOT go. (more formal);가지 않았어요
+버리지 않았어요;I DID NOT throw it away. (more formal)
+I DID NOT throw it away. (more formal);버리지 않았어요
+안 먹어요. 배 안 고파요.;I am not eating. I am not hungry.
+I am not eating. I am not hungry.;안 먹어요. 배 안 고파요.
+이거 매워요?;Is this spicy?
+Is this spicy?;이거 매워요?
+아니요. 안 매워요.;No. It is not spicy.
+No. It is not spicy.;아니요. 안 매워요.
+누구예요?;Who is it?
+Who is it?;누구예요?
+누가 했어요?;Who did it?
+Who did it?;누가 했어요?
+어제 누가 왔어요?;Who came yesterday?
+Who came yesterday?;어제 누가 왔어요?
+누가 샀어요?;Who bought it?
+Who bought it?;누가 샀어요?
+뭐;What
+What;뭐
+어디;Where
+Where;어디
+언제;When
+When;언제
+누구;Who
+Who;누구
+어떻게;How
+How;어떻게
+왜;Why
+Why;왜
+얼마;How much (money)
+How much (money);얼마
+얼마나;How + adjective/adverb
+How + adjective/adverb;얼마나
+찾다;to find, to look for
+to find, to look for;찾다
+어떻게 찾았어요?;How did you find it?
+How did you find it?;어떻게 찾았어요?
+어떻게 왔어요?;How did you get here?
+How did you get here?;어떻게 왔어요?
+왜 전화했어요?;Why did you call?
+Why did you call?;왜 전화했어요?
+왜 안 왔어요?;Why didn’t you come?
+Why didn’t you come?;왜 안 왔어요?
+이거 얼마예요?;How much is this?
+How much is this?;이거 얼마예요?
+내다;to pay
+to pay;내다
+얼마 냈어요?;How much did you pay?
+How much did you pay?;얼마 냈어요?
+자주;often
+often;자주
+얼마나 자주 와요?;How often do you come?
+How often do you come?;얼마나 자주 와요?
+크다;to be big
+to be big;크다
+얼마나 커요?;How big is it?
+How big is it?;얼마나 커요?
+서울에서;(from Seoul to another place)
+(from Seoul to another place);서울에서
+지금부터;From now
+From now;지금부터
+어제부터;From (or since) yesterday
+From (or since) yesterday;어제부터
+서울까지;(From somewhere else) to Seoul
+(From somewhere else) to Seoul;서울까지
+지금까지;Until now
+Until now;지금까지
+내일까지;Until tomorrow
+Until tomorrow;내일까지
+서울에서 부산까지;From Seoul to Busan
+From Seoul to Busan;서울에서 부산까지
+아침부터 저녁까지;From morning until evening
+From morning until evening;아침부터 저녁까지
+이 책은 처음부터 끝까지 정말 재밌어요.;This book, it is really interesting from the beginning to the end.
+This book, it is really interesting from the beginning to the end.;이 책은 처음부터 끝까지 정말 재밌어요.
+언제 읽었어요?;When did you read it?
+When did you read it?;언제 읽었어요?
+주말;weekend
+weekend;주말
+주말에 읽었어요.;I read it over the weekend.
+I read it over the weekend.;주말에 읽었어요.
+어디에서 읽었어요?;Where did you read it?
+Where did you read it?;어디에서 읽었어요?
+집에서 읽었어요.;I read it at home.
+I read it at home.;집에서 읽었어요.
+선물;present, gift
+present, gift;선물
+생일;birthday
+birthday;생일
+잔;cup
+cup;잔
+다른;different
+different;다른
+기다리다;to wait
+to wait;기다리다
+누구 기다려요?;Whom are you waiting for?
+Whom are you waiting for?;누구 기다려요?
+왜 기다렸어요?;Why did you wait?
+Why did you wait?;왜 기다렸어요?
+안 기다렸어요;I didn’t wait.
+I didn’t wait.;안 기다렸어요
+운동;exercise
+exercise;운동
+언제 운동해요?;When do you exercise?
+When do you exercise?;언제 운동해요?
+어디에서 운동해요?;Where do you exercise?
+Where do you exercise?;어디에서 운동해요?
+공원;park
+park;공원
+공원에서 운동해요.;I exercise in the park.
+I exercise in the park.;공원에서 운동해요.
+민아: 민수 씨 안녕하세요.;Mina: Minsu, hello.
+Mina: Minsu, hello.;민아: 민수 씨 안녕하세요.
+민수: 아, 네, 민아 씨, 안녕하세요! 이거 뭐예요?;Minsu: Oh, hi, Mina. Hi. What is this?
+Minsu: Oh, hi, Mina. Hi. What is this?;민수: 아, 네, 민아 씨, 안녕하세요! 이거 뭐예요?
+민아: 이거요? 이거 선물이에요.;Mina: This? This is a present.
+Mina: This? This is a present.;민아: 이거요? 이거 선물이에요.
+민수: 선물이요? 우와. 감사합니다.;Minsu: A present? Wow. Thank you.
+Minsu: A present? Wow. Thank you.;민수: 선물이요? 우와. 감사합니다.
+민아: 아니요, 민수 씨 선물 아니에요. 다른 사람 선물이에요.;Mina: No, it’s not a present for you, Minsu. It’s a present for someone else.
+Mina: No, it’s not a present for you, Minsu. It’s a present for someone else.;민아: 아니요, 민수 씨 선물 아니에요. 다른 사람 선물이에요.
+민수: 다른 사람이요? 누구요?;Minsu: Someone else? Who?
+Minsu: Someone else? Who?;민수: 다른 사람이요? 누구요?
+민아: 오늘 현주 씨 생일이에요.;Mina: Today is Hyeonju’s birthday.
+Mina: Today is Hyeonju’s birthday.;민아: 오늘 현주 씨 생일이에요.
+민수: 정말요? 몰랐어요.;Minsu: Really? I didn’t know.
+Minsu: Really? I didn’t know.;민수: 정말요? 몰랐어요.
+민아: 어, 저기, 현주 씨 왔어요.;Mina: Oh, there, Hyeonju came.
+Mina: Oh, there, Hyeonju came.;민아: 어, 저기, 현주 씨 왔어요.
+현주: 민아 씨, 민수 씨, 안녕하세요!;Hyeonju: Mina, Minsu, hi!
+Hyeonju: Mina, Minsu, hi!;현주: 민아 씨, 민수 씨, 안녕하세요!
+민아: 생일 축하해요. 선물이에요.;Mina: Happy birthday. It’s a present.
+Mina: Happy birthday. It’s a present.;민아: 생일 축하해요. 선물이에요.
+현주: 우와. 감사합니다.;Hyeonju: Wow. Thank you.
+Hyeonju: Wow. Thank you.;현주: 우와. 감사합니다.
+민수: 현주 씨, 생일 축하해요. 저는... 선물이 없어요. 생일을 몰랐어요.;Minsu: Hyeonju, happy birthday. I... don’t have a present. I didn’t know your birthday.
+Minsu: Hyeonju, happy birthday. I... don’t have a present. I didn’t know your birthday.;민수: 현주 씨, 생일 축하해요. 저는... 선물이 없어요. 생일을 몰랐어요.
+현주: 괜찮아요. 감사합니다.;Hyeonju: It’s okay. Thank you.
+Hyeonju: It’s okay. Thank you.;현주: 괜찮아요. 감사합니다.
+민아: 민수 씨는 언제까지 시간 있어요?;Mina: Minsu, until when do you have time?
+Mina: Minsu, until when do you have time?;민아: 민수 씨는 언제까지 시간 있어요?
+민수: 저요? 저는 일곱 시까지 시간 있어요.;Minsu: Me? I have time until 7 o’clock.
+Minsu: Me? I have time until 7 o’clock.;민수: 저요? 저는 일곱 시까지 시간 있어요.
+민아: 좋아요. 현주 씨, 뭐 하고 싶어요?;Mina: Good. Hyeonju, what do you want to do?
+Mina: Good. Hyeonju, what do you want to do?;민아: 좋아요. 현주 씨, 뭐 하고 싶어요?
+현주: 저요? 글쎄요...;Hyeonju: Me? Well...
+Hyeonju: Me? Well...;현주: 저요? 글쎄요...
+민아: 민수 씨, 배고파요? 저는 피자 먹고 싶어요.;Mina: Minsu, are you hungry? I want to have pizza.
+Mina: Minsu, are you hungry? I want to have pizza.;민아: 민수 씨, 배고파요? 저는 피자 먹고 싶어요.
+민수: 네? 네... 저기... 현주 씨는요? 피자 먹고 싶어요?;Minsu: What? I see... um... Hyeonju, how about you? Do you want to have pizza?
+Minsu: What? I see... um... Hyeonju, how about you? Do you want to have pizza?;민수: 네? 네... 저기... 현주 씨는요? 피자 먹고 싶어요?
+현주: 네. 저도 피자 좋아요.;Hyeonju: Yeah... I like pizza too.
+Hyeonju: Yeah... I like pizza too.;현주: 네. 저도 피자 좋아요.
+민수: 저기요. 김치 불고기 치즈 피자 하나 주세요.;Minsu: Excuse me. Give us one kimchi bulgogi cheese pizza.
+Minsu: Excuse me. Give us one kimchi bulgogi cheese pizza.;민수: 저기요. 김치 불고기 치즈 피자 하나 주세요.
+민아: 김치 불고기 치즈 피자요?;Mina: Kimchi bulgogi cheese pizza?
+Mina: Kimchi bulgogi cheese pizza?;민아: 김치 불고기 치즈 피자요?
+민수: 맛있어요! 아, 저기요! 콜라 세 잔 주세요.;Minsu: It’s delicious! Oh, excuse me! Give us three cups of cola.
+Minsu: It’s delicious! Oh, excuse me! Give us three cups of cola.;민수: 맛있어요! 아, 저기요! 콜라 세 잔 주세요.
+민아: 저는 콜라 안 마시고 싶어요. 저는 맥주 주세요.;Mina: I don’t want to drink cola. Give me beer.
+Mina: I don’t want to drink cola. Give me beer.;민아: 저는 콜라 안 마시고 싶어요. 저는 맥주 주세요.
+민수: 여기 맥주 없어요.;Minsu: There is no beer here.
+Minsu: There is no beer here.;민수: 여기 맥주 없어요.
+민아: 있어요.;Mina: There is.
+Mina: There is.;민아: 있어요.
+현주: 저기요, 여기 맥주 있어요? 네, 맥주 하나 주세요.;Hyeonju: Excuse me, do you have beer here? Yes, give us one beer.
+Hyeonju: Excuse me, do you have beer here? Yes, give us one beer.;현주: 저기요, 여기 맥주 있어요? 네, 맥주 하나 주세요.
+민수: 누가 피자집에서 맥주를 마셔요?;Minsu: Who drinks beer in a pizza place?
+Minsu: Who drinks beer in a pizza place?;민수: 누가 피자집에서 맥주를 마셔요?
+민아: 왜요? 이상해요?;Mina: Why? Is it strange?
+Mina: Why? Is it strange?;민아: 왜요? 이상해요?
+민수: 아니에요.;Minsu: No.
+Minsu: No.;민수: 아니에요.
+현주: 피자 나왔어요.;Hyeonju: The pizza came out.
+Hyeonju: The pizza came out.;현주: 피자 나왔어요.
+민아: 맥주는요?;Mina: And beer?
+Mina: And beer?;민아: 맥주는요?
+현주: 여기 있어요.;Hyeonju: It’s here.
+Hyeonju: It’s here.;현주: 여기 있어요.
+지금 갈 거예요.;I am going to go (there) now.
+I am going to go (there) now.;지금 갈 거예요.
+내일 갈 거예요.;I am going to go tomorrow.
+I am going to go tomorrow.;내일 갈 거예요.
+뭐 할 거예요?;What are you going to do?
+What are you going to do?;뭐 할 거예요?
+이거 정말 할 거예요?;Are you really going to do it?
+Are you really going to do it?;이거 정말 할 거예요?
+입다;to wear
+to wear;입다
+뭐 입을 거예요?;What are you going to wear?
+What are you going to wear?;뭐 입을 거예요?
+누구 만날 거예요?;Who are you going to meet?
+Who are you going to meet?;누구 만날 거예요?
+어디에서 만날 거예요?;Where are you going to meet?
+Where are you going to meet?;어디에서 만날 거예요?
+언제 만날 거예요?;When are you going to meet?
+When are you going to meet?;언제 만날 거예요?
+얼마에 팔 거예요?;At what price are you going to sell it?
+At what price are you going to sell it?;얼마에 팔 거예요?
+밥 언제 먹을 거예요?;When are you going to eat?
+When are you going to eat?;밥 언제 먹을 거예요?
+지금 먹을 거예요.;I am going to eat now.
+I am going to eat now.;지금 먹을 거예요.
+어디에서 먹을 거예요?;Where are you going to eat?
+Where are you going to eat?;어디에서 먹을 거예요?
+아니요. 지금 갈 거예요.;No. I am going to go now.
+No. I am going to go now.;아니요. 지금 갈 거예요.
+사과를 먹었어요?;Did you eat an apple?
+Did you eat an apple?;사과를 먹었어요?
+사과를 사요?;Are you buying an apple?
+Are you buying an apple?;사과를 사요?
+어제 누구를 여기에서 만났어요?;WHO did you meet here yesterday?
+WHO did you meet here yesterday?;어제 누구를 여기에서 만났어요?
+텔레비전 자주 봐요?;Do you watch TV often?
+Do you watch TV often?;텔레비전 자주 봐요?
+빵;bread
+bread;빵
+커피, 빵, 그리고 물;coffee, bread and water
+coffee, bread and water;커피, 빵, 그리고 물
+서울 그리고 부산;Seoul and Busan
+Seoul and Busan;서울 그리고 부산
+친구를 만났어요. 그리고 밥을 먹었어요.;I met my friend. And then I ate.
+I met my friend. And then I ate.;친구를 만났어요. 그리고 밥을 먹었어요.
+비가 오다;to rain
+to rain;비가 오다
+오늘은 비가 왔어요. 그래서 집에 있었어요.;It rained today. So I stayed home.
+It rained today. So I stayed home.;오늘은 비가 왔어요. 그래서 집에 있었어요.
+김치는 맛있어요. 그리고 한국 음식이에요.;Kimchi is delicious. And it is Korean food.
+Kimchi is delicious. And it is Korean food.;김치는 맛있어요. 그리고 한국 음식이에요.
+저는 학생이에요. 그래서 돈이 없어요.;I am a student. So I don't have money.
+I am a student. So I don't have money.;저는 학생이에요. 그래서 돈이 없어요.
+-하고;and
+and;-하고
+이거하고 이거 주세요.;Give me this and this.
+Give me this and this.;이거하고 이거 주세요.
+-(이)랑;and
+and;-(이)랑
+우유랑 빵;milk and bread
+milk and bread;우유랑 빵
+빵이랑 우유;bread and milk
+bread and milk;빵이랑 우유
+우유랑 빵 샀어요.;I bought milk and bread.
+I bought milk and bread.;우유랑 빵 샀어요.
+친구하고 같이 영화 봤어요.;I saw a movie with a friend.
+I saw a movie with a friend.;친구하고 같이 영화 봤어요.
+누구랑 같이 갔어요?;Who did you go with?
+Who did you go with?;누구랑 같이 갔어요?
+동생;younger sibling
+younger sibling;동생
+공부하다;to study
+to study;공부하다
+동생하고 공부할 거예요.;I am going to study with my younger sibling.
+I am going to study with my younger sibling.;동생하고 공부할 거예요.
+선생님;teacher
+teacher;선생님
+선생님하고 밥을 먹을 거예요.;I am going to eat with my teacher.
+I am going to eat with my teacher.;선생님하고 밥을 먹을 거예요.
+내일 선생님하고 경복궁에 갈 거예요.;I am going to go to Gyeongbok Palace with my teacher tomorrow.
+I am going to go to Gyeongbok Palace with my teacher tomorrow.;내일 선생님하고 경복궁에 갈 거예요.
+어제 홍대하고 신촌에 갔어요.;I went to Hongdae and Sinchon yesterday.
+I went to Hongdae and Sinchon yesterday.;어제 홍대하고 신촌에 갔어요.
+Sunday;일요일
+일요일;Sunday
+Monday;월요일
+월요일;Monday
+Tuesday;화요일
+화요일;Tuesday
+Wednesday;수요일
+수요일;Wednesday
+Thursday;목요일
+목요일;Thursday
+Friday;금요일
+금요일;Friday
+Saturday;토요일
+토요일;Saturday
+저는 월요일에 영화를 봤어요.;I watched a movie on Monday.
+I watched a movie on Monday.;저는 월요일에 영화를 봤어요.
+피곤해요. 그렇지만 영화 보고 싶어요.;I am tired, but I want to see a movie.
+I am tired, but I want to see a movie.;피곤해요. 그렇지만 영화 보고 싶어요.
+피곤해요. 그런데 영화 보고 싶어요.;I am tired. However, I want to see a movie.
+I am tired. However, I want to see a movie.;피곤해요. 그런데 영화 보고 싶어요.
+어제 학교에 갔어요. 그렇지만 일요일이었어요.;I went to school yesterday, but it was Sunday.
+I went to school yesterday, but it was Sunday.;어제 학교에 갔어요. 그렇지만 일요일이었어요.
+늦게;late, at a late hour
+late, at a late hour;늦게
+피곤하다;to be tired
+to be tired;피곤하다
+어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.;I went to bed late last night, but I am not tired.
+I went to bed late last night, but I am not tired.;어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.
+매일;every day
+every day;매일
+살이 빠지다;to lose weight
+to lose weight;살이 빠지다
+저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.;I work out every day, but I do not lose any weight.
+I work out every day, but I do not lose any weight.;저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
+왕따;outcast, loner, someone who is bullied by others
+outcast, loner, someone who is bullied by others;왕따
+저는 친구가 없어요. 그런데 왕따는 아니에요.;I do not have friends, but I am not a loner.
+I do not have friends, but I am not a loner.;저는 친구가 없어요. 그런데 왕따는 아니에요.
+저한테;to me, from me
+to me, from me;저한테
+친구한테;to a friend, from a friend
+to a friend, from a friend;친구한테
+누구한테;to whom, from whom
+to whom, from whom;누구한테
+저한테서;from me
+from me;저한테서
+친구한테서;from a friend
+from a friend;친구한테서
+누구한테서;from whom
+from whom;누구한테서
