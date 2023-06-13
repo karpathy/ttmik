@@ -24,8 +24,8 @@ Follows (https://talktomeinkorean.com/curriculum/level-1-korean-grammar/).
 ## Lesson 4
 죄송합니다 = I am sorry.
 저기요 = Excuse me.
-/ 잠시만요. = Just a second.
-/ 잠깐만요. = Just a second.
+잠시만요. = Just a second.
+잠깐만요. = Just a second.
 
 ## Lesson 5
 물이에요? = Is that water? / Is this water?
@@ -291,6 +291,10 @@ nothing much too new here
 얼마나 커요? = How big is it?
 
 ## Lesson 25
+저녁 = evening
+처음 = first
+끝 = end
+주말 = weekend
 서울에서 = (from Seoul to another place)
 지금부터 = From now
 어제부터 = From (or since) yesterday
@@ -301,7 +305,6 @@ nothing much too new here
 아침부터 저녁까지 = From morning until evening
 이 책은 처음부터 끝까지 정말 재밌어요. = This book, it is really interesting from the beginning to the end.
 언제 읽었어요? = When did you read it?
-주말 = weekend
 주말에 읽었어요. = I read it over the weekend.
 어디에서 읽었어요? = Where did you read it?
 집에서 읽었어요. = I read it at home.
@@ -471,6 +474,8 @@ More samples:
 
 ## Lesson 5
 
+The syllable 요 and 일 together mean “day of the week”.
+
 Sunday = 일요일 
 Monday = 월요일 
 Tuesday = 화요일 
@@ -522,3 +527,122 @@ Examples:
 저한테서 = from me
 친구한테서 = from a friend
 누구한테서 = from whom
+
+## Lesson 8
+
+Telling the time
+
+When saying the hour, use native Korean numbers (1, 2, 3 and 4 change a bit!)
+(native Korean) Number + 시 = hour
+한 시 = 1 o’clock (not 하나 시)
+두 시 = 2 o’clock (not 둘 시)
+세 시 = 3 o’clock (not 셋 시)
+네 시 = 4 o’clock (not 넷 시)
+다섯 시 = 5 o’clock
+여섯 시 = 6 o’clock
+일곱 시 = 7 o’clock
+...
+
+When saying minutes use sino-Korean numbers.
+Number + 분 [bun] = minute
+일 분 = 1 minute
+이 분 = 2 minutes
+십 오 분 [si-bo bun] = 15 minutes
+삼십 분 [sam-sip bun] = 30 minutes
+오십오 분 [o-si-bo bun] = 55 minutes
+
+Examples:
+1:05 = 한 시 오 분
+1:15 = 한 시 십오 분
+3:20 = 세 시 이십 분
+10:00 = 열 시
+10:30 = 열 시 삼십 분
+
+지금 몇 시예요? = What time is it now?
+
+매일 = every day
+출근하다 [chul-geun-ha-da] = to go to work
+저는 매일 아침 9시까지 출근해요. = I get to work by 9 every morning.
+
+내일 = tomorrow
+수업 = class
+끝나다 = to finish
+내일 수업이 4시 반에 끝나요. = My classes finish at 4:30 tomorrow.
+
+오늘 몇 시에 친구를 만나요? = What time do you meet your friend today?
+
+오늘 몇 시에 출근했어요? = What time did you come to work today?
+아홉 시 반에 출근했어요. 유정 씨는요? = I came to work at 9:30. How about you, Yujeong?
+여덟 시 십 분에 출근했어요. = I came to work at 8:10.
+
+## Lesson 9
+
+Counters
+
+Korean: noun + number + counter
+1. “car” + one + “counter for cars”
+2. “pencil” + two + “counter for pencils”
+3. “book” + three + “counter for books”
+
+The majority of the time, counters are used with native Korean numbers.
+
+There are many counters, for this lesson we just do 개 and 명.
+- 개 as a noun in Korean means “a dog”, but when used as a counter, it counts things and objects
+- 명 is used for counting people.
+
+one apple = 사과 한 개
+two stones = 돌 두 개
+five balls = 공 다섯 개
+how many (things) = 몇 개
+
+one person = 한 명
+two students = 학생 두 명
+three friends = 친구 세 명
+how many (people) = 몇 명
+
+note that the Korean numbers are truncated when used with counters, as earlier too.
+
+지금 스무 명 있어요? = Are there 20 people now?
+
+## Lesson 10
+
+Present Progressive / -고 있어요
+
+Present progressive:
+- am/are/is -ing : Verb stem + -고 있어요 [-go i-sseo-yo]
+Past progressive:
+- was/were -ing : Verb stem + -고 있었어요 [-go i-sseo-sseo-yo]
+Future progressive:
+- will be -ing : Verb stem + -고 있을 거예요 [-go i-sseul kkeo-ye-yo]
+
+In everyday conversations people often drop this part though.
+Ex:
+Instead of saying:
+A: 지금 뭐 하고 있어요? - What are you doing now?
+B: 공부하고 있어요. - I am studying.
+Many people say:
+A: 지금 뭐 해요? - What are you doing now?
+B: 공부해요. - I am studying.
+
+지금 보고 있어요. = I am watching it now.
+재미있어요? = Is it interesting?
+
+일하고 있어요. = I am working.
+일하고 있었어요. = I was working.
+일하고 있을 거예요. = I will be working.
+듣고 있어요. = I am listening.
+생각하다 = to think
+생각하고 있어요. = I am thinking.
+
+## Lesson 11
+
+Self-introductions
+
+저는 서울에 살아요. = I live in Seoul.
+저는 선생님이에요. = I am a teacher.
+
+## Lesson 12
+
+What is today's date?
+
+생일이 언제예요? [eon-je-ye-yo?] = When is your birthday?
