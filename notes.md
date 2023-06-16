@@ -51,7 +51,7 @@ Follows (https://talktomeinkorean.com/curriculum/level-1-korean-grammar/).
 ## Lesson 8
 우유 아니에요. = It is not milk.
 물 아니에요. = It is not water.
-저 학생 아니에요. = I am not a student.
+저는 학생 아니에요. = I am not a student.
 그거 고양이 아니에요. = It is not a cat.
 저거 술 아니에요. = That is not liquor.
 
@@ -434,6 +434,7 @@ And, and then, therefore, so / 그리고, 그래서
 비가 오다 = to rain
 오늘은 비가 왔어요. 그래서 집에 있었어요. = It rained today. So I stayed home.
 
+음식 = food
 김치는 맛있어요. 그리고 한국 음식이에요. = Kimchi is delicious. And it is Korean food.
 저는 학생이에요. 그래서 돈이 없어요. = I am a student. So I don't have money.
 
@@ -624,6 +625,8 @@ Many people say:
 A: 지금 뭐 해요? - What are you doing now?
 B: 공부해요. - I am studying.
 
+저는 한국어를 공부하고 있어요. = I am studying Korean.
+
 지금 보고 있어요. = I am watching it now.
 재미있어요? = Is it interesting?
 
@@ -643,6 +646,66 @@ Self-introductions
 
 ## Lesson 12
 
-What is today's date?
+Names of months
+
+In Korean, the names for the 12 months in a year are very simple. Just add the
+word 월 [wol], which means “month”, after every corresponding sino-Korean number.
+
+일월 = January
+이월 = February
+삼월 = March
+사월 = April
+오월 = May
+유월 = June
+칠월 = July
+팔월 = August
+구월 = September
+시월 = October
+십일월 = November
+십이월 = December
+몇월 = Which month?
+
+For days, add the sino-Korean number to the Korean word 일 [il], which means “day”.
 
 생일이 언제예요? [eon-je-ye-yo?] = When is your birthday?
+
+(Not going to take note of some of the sample sentences here because this lesson is poorly done in TTMIK and Google Translate disagrees)
+
+## Lesson 13
+
+-도 [-do] is used to represent the meaning of “also” and “too”.
+
+In English, the placement of the words “too”, “also”, or “as well” varies depending on the speaker. Most of the time they are added to the end of a sentence, but sometimes they can be placed in the middle or near the beginning next to the subject. In Korean, however, -도 is treated as a particle and ALWAYS follows the noun or pronoun.
+
+저도 좋아요 = I like it, too
+저도 봤어요 = I saw it, too
+
+When the particle -도 needs to be attached to a noun or a pronoun which already has a particle behind it, -도 can replace the particle.
+
+저도 학생이에요 = I am a student, too
+오늘 일해요? = Are you working today?
+오늘도 일해요? = Are you working today, too?
+
+내일도 갈 거예요. = I will go (again) tomorrow, too.
+
+## Lesson 14
+
+The use of -도 [-do] but for verbs.
+There are a few different ways to change a verb into its noun form, but the simplest and most common way is by adding -기 [-gi] to the verb stem. This is similar to using verbs in the
+“to do [verb]” and “[verb]ing” format.
+
+Ok this lesson went over my head, the examples are not good. Skipping.
+
+## Lesson 15
+
+Using -만 [-man] is one of the most widely used and basic ways of saying “only”. Simply add -만 after a noun, pronoun, or noun form (-기 [-gi]) of a verb.
+
+이것만 살 거예요. = I will only buy this.
+저만 = me only, I only
+아침에는 커피만 마셔요. = I only drink coffee in the morning.
+아침에만 커피를 마셔요. = I drink coffee only in the morning.
+보기만 할 거예요. = I will only look (and not touch it).
+왜 이것만 샀어요? = Why did you only buy this?
+어제 놀기만 했어요. = I did nothing but play yesterday.
+영화는 집에서만 봐요. = I watch movies only at home.
+
