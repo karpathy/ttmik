@@ -253,8 +253,6 @@ TalkToMeInKorean 재미있어요! = TalkToMeInKorean is fun! / TalkToMeInKorean 
 안 먹어요? = You are not going to eat?
 안 먹어요! = I am not eating!
 정말 안 먹어요? 맛있어요! = You are really not going to eat? It is delicious.
-가지 않았어요 = I DID NOT go. (more formal)
-버리지 않았어요 = I DID NOT throw it away. (more formal)
 안 먹어요. 배 안 고파요. = I am not eating. I am not hungry.
 이거 매워요? = Is this spicy?
 아니요. 안 매워요. = No. It is not spicy.
@@ -403,6 +401,7 @@ To explain it simply, they help listeners/readers predict the verb (to an extent
 
 사과를 먹었어요? = Did you eat an apple?
 사과를 사요? = Are you buying an apple?
+Q: Why not -ing format? (Present Progressive)
 
 By adding -가 (subject marking particle) to 사과, 
 it becomes the SUBJECT of the sentence,
@@ -479,13 +478,13 @@ More samples:
 
 The syllable 요 and 일 together mean “day of the week”.
 
-Sunday = 일요일 
-Monday = 월요일 
-Tuesday = 화요일 
-Wednesday = 수요일 
-Thursday = 목요일 
-Friday = 금요일 
-Saturday = 토요일 
+Monday = 월요일
+Tuesday = 화요일
+Wednesday = 수요일
+Thursday = 목요일
+Friday = 금요일
+Saturday = 토요일
+Sunday = 일요일
 
 저는 월요일에 영화를 봤어요. = I watched a movie on Monday.
 
@@ -536,7 +535,7 @@ Examples:
 Telling the time
 
 When saying the hour, use native Korean numbers (1, 2, 3 and 4 change a bit!)
-(native Korean) Number + 시 = hour
+(native Korean) Number + 시 - hour
 한 시 = 1 o’clock (not 하나 시)
 두 시 = 2 o’clock (not 둘 시)
 세 시 = 3 o’clock (not 셋 시)
@@ -545,6 +544,8 @@ When saying the hour, use native Korean numbers (1, 2, 3 and 4 change a bit!)
 여섯 시 = 6 o’clock
 일곱 시 = 7 o’clock
 ...
+
+여섯시 정각에 만나요 = Let’s meet at 6 o’clock sharp.
 
 When saying minutes use sino-Korean numbers.
 Number + 분 [bun] = minute
@@ -570,7 +571,7 @@ Examples:
 내일 = tomorrow
 수업 = class
 끝나다 = to finish
-내일 수업이 4시 반에 끝나요. = My classes finish at 4:30 tomorrow.
+내일 수업이 네시 반에 끝나요. = My classes finish at 4:30 tomorrow.
 
 오늘 몇 시에 친구를 만나요? = What time do you meet your friend today?
 
@@ -743,17 +744,16 @@ in spoken Korean, 아주 is replaced with 정말 or 진짜.
 To say “can (do something)”, use -(으)ㄹ 수 있다 [-(eu)l ssu it-tta].
 To say it cannot be done, -(으)ㄹ 수 없다 [-(eu)l ssu eop-tta].
 
-잘 수 없다 [jal ssu eop-tta] = cannot sleep (long form)
-잘 수 있다 = can sleep
+잘 수 없다 [jal ssu eop-tta] - cannot sleep (long form)
 
 -(으)ㄹ 수 없다 is the most basic way to express “cannot”, but it is not always used in spoken Korean. A more common way to say “cannot” or “to be unable to” in spoken Korean is by adding 못 before a verb.
-
-갈 수 없다 = 못 가다 = cannot go (long form)
 
 이거 읽을 수 있어요? = Can you read this?
 못 읽어요. = I cannot read it. (short form)
 
-지금 못 만나요. = I cannot meet you now.
+지금 못 만나요. = I cannot meet you now. (short form)
+갈 수 없었어요 = I could not go. (long form)
+잠을 못 잤어요 = I could not sleep. (short form)
 
 Bunch of low quality examples from TTMIK skipped here :(
 
@@ -830,7 +830,7 @@ A: The only difference is that using 되다 is more common in colloquial situati
 숙제 = homework
 숙제하고 있어요. 내일까지 해야 돼요. = I am doing my homework. I have to finish it by tomorrow.
 내일 몇 시까지 해야 돼요? = By what time tomorrow do you have to do it?
-내일 열시까지 해야 돼요. = I have to finish it by 10 o'clock tomorrow.
+내일 열시까지 해야 돼요. = I have to do it by 10 o'clock tomorrow.
 
 Lesson 21
 
@@ -854,6 +854,7 @@ word -보다 (which means “than”) comes AFTER 사과, which means “apple�
 * 더 is not always necessary in Korean. Saying “she is busy than me” instead of “she is busier than me” in English is a bit weird, but in Korean, the meaning is perfectly clear even without the word 더.
 
 영어 = English
+어려운 = difficult
 영어는 한국어보다 어려워요. = English is more difficult than Korean.
 
 저는 책을 읽는 것보다 사는 것을 더 좋아해요 = I like buying books more than reading books.
@@ -954,10 +955,10 @@ Something, Someday, Someone, Somewhere / 누군가, 무언가, 어딘가, 언젠
 
 In English, when changing the adverbs “when”, “what”, “who”, or “where” to indefinite words (words with no definite meaning), the words change form and become compound words.
 
-When = Someday
-What = Something
-Who = Someone
-Where = Somewhere
+When - Someday
+What - Something
+Who - Someone
+Where - Somewhere
 
 In Korean, it is much easier to create these indefinite words. Just simply add -ㄴ가 [-(n)-ga] to the end of the word.
 
@@ -1019,6 +1020,7 @@ Rather than adding -(으)세요 after a verb stem, add -아/어/여 [-a/eo/yeo] 
 가르쳐 주세요 = Please teach me
 한국어를 가르쳐 주세요 = Please teach me Korean.
 이거 봐 주세요 = Please look at this.
+저랑 영화 봐 주세요 = Please watch a movie with me.
 
 주세요 is derived from 주다, which means “to give”. By adding 주세요 after a verb, the meaning of “do it for me, please” is also added. As for -아/어/여, think of it as a “helper” to make the pronunciation a bit easier.
 
@@ -1106,9 +1108,10 @@ Verb stem + -지 마세요
 저도 가고 싶어요 = I want to go, too.
 혼자 갈 거예요 = I am going to go alone.
 일본어 할 수 있어요? = Can you speak Japanese?
-네, 조금 할 수 있어요. = Yes, I can speak a little.
+네, 조금 할 수 있어요. = Yes, I can do a little.
 저도 일본어 가르쳐 주세요. = Please teach me Japanese, too.
 저도 아직 잘 못해요 = I am not good at it yet, either.
+배우다 = to learn
 친구한테서 배우고 있어요 = I am learning from a friend.
 중국어보다 일본어가 더 쉬워요? = Is Japanese easier than Chinese?
 네, 별로 안 어려워요 = Yes, it is not that difficult.
@@ -1127,3 +1130,23 @@ Verb stem + -지 마세요
 말하다 = to speak
 일찍 = early
 만약 일찍 끝나면, 말해 주세요 = If you finish early, let me know.
+
+Bunch of random added things
+정말 너무 사랑해 = I really love you (causual)
+
+## Beginner Dialogue 1
+
+반갑습니다 = Nice to meet you (formal)
+어디에 사세요? = Where do you live?
+대학교 - University
+다니다 - to go to (a place) regularly
+저는 한국대학교에 다녀요 = I go to Korea University.
+지연 씨도 학생이세요? = Are you a student, too, Jiyeon?
+무슨 - what
+무슨 일을 하세요? = What work do you do?
+
+Conjugation/usage note:
+VERB + -시- + -아/어/여요? - Do you VERB? (honorific)
+* When -시- is combined with -아/어/여요, it becomes -셔요. 
+Over time however, it changed to -세요 because it is easier to pronounce.
+Ex.: 살다 + -시- + -아/어/여요? → 사세요? - Do you live? (honorific)
